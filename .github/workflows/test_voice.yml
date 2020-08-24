@@ -12,7 +12,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Test for voices 👓
+      - name: Test for sound file existence 👓
         run: |
           yarn
-          yarn test-voice
+          yarn test:sound
