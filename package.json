@@ -5,7 +5,7 @@
   "description": "Assets for starbuttons.",
   "author": "Outvi V <oss@outv.im>",
   "scripts": {
-    "test:voice": "utils/voices.js",
+    "test:sound": "utils/sound.js",
     "test:bitrate": "bash utils/bitrate.sh"
   },
   "dependencies": {
