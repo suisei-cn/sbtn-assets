@@ -1,0 +1,27 @@
+{
+  "name": "sbtn-assets",
+  "version": "1.3.0",
+  "private": true,
+  "description": "Assets for starbuttons.",
+  "author": "Outvi V <oss@outv.im>",
+  "scripts": {
+    "test:voice": "utils/voices.js",
+    "test:bitrate": "bash utils/bitrate.sh"
+  },
+  "dependencies": {
+    "yaml": "^1.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/suisei-cn/sbtn-assets/issues"
+  },
+  "homepage": "https://suisei.moe",
+  "keywords": [
+    "hololive",
+    "suisei-hosimati"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suisei-cn/sbtn-assets.git"
+  }
+}
