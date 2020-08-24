@@ -21,9 +21,7 @@ jobs:
           yarn test:sound
 
       - name: Install and Build 🔧
-        run: |
-          sudo npm install --global gulp-cli
-          gulp
+        run: gulp
 
       - name: Install SSH Client 🔑
         uses: webfactory/ssh-agent@v0.2.0
