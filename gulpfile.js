@@ -28,12 +28,17 @@ function copyAssets(cb) {
   cb()
 }
 
+function noJekyll(cb) {
+  gulp.src('.nojekyll').pipe(gulp.dest('./dist'))
+  cb()
+}
+
 function clean(cb) {
   del(['dist/*'])
   cb()
 }
 
-const genTask = parallel(genSounds, genCategories, copyAssets)
+const genTask = parallel(genSounds, genCategories, noJekyll, copyAssets)
 
 const defaultTask = series(clean, genTask)
 
