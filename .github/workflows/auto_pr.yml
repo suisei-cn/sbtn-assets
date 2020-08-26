@@ -7,7 +7,7 @@ on:
 jobs:
   push_to_branch_and_create_pr:
     name: Create a PR with the sound
-    if: "(contains(github.event.comment.body, ' pr ')) && ((contains(github.event.comment.author_association, 'OWNER') || contains(github.event.comment.user.login, 'librehsbot')) && (github.event.issue.number == 5))"
+    if: "(contains(github.event.comment.body, ' pr ')) && ((contains(github.event.comment.author_association, 'OWNER') || contains(github.event.comment.user.login, 'librehsbot')) && (github.event.issue.number == 1))"
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
