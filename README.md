@@ -1,10 +1,6 @@
 # Starbuttons Assets
 
-This repository will be dedicated to save assets of [starbuttons](https://github.com/suisei-cn/starbuttons) in `starbuttons@2.0.0` (in progress).
-
-## Usage Status
-
-This repository has **not** been used in production.
+This repository saves assets of [starbuttons](https://github.com/suisei-cn/starbuttons) since `starbuttons@2.0.0`.
 
 ## Contributing
 
