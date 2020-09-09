@@ -1602,3 +1602,9 @@
   file:
     - "fall-bad-guys-1.mp3"
     - "fall-bad-guys-2.mp3"
+- name: "If time permits, ♡ger♡her♡done♡"
+  name_l10n:
+    ja: "♡や♡じゃ♡て♡"
+    zh: "能干掉的话♡就♡干♡掉♡"
+  category: e
+  file: "av96075539--509.4--511.mp3"
