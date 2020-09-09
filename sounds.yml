@@ -359,7 +359,6 @@
     ja: （病気中）
   category:
     - psycho
-    - new
   file:
     - H1D_xTnXvSE--2342.29--2348.99.mp3
     - clXusKnSBY0--1203.459--1209.377.mp3
@@ -1562,12 +1561,10 @@
         to: 5426
 - name: Bobobo~
   category:
-    - new
     - cute
   file: bobobo.mp3
 - name: Yoyoyo~
   category:
-    - new
     - cute
   file: yoyoyo.mp3
 - name: "(Current in game: Fall Guys)"
@@ -1583,7 +1580,6 @@
   file: against-sex-harassment.mp3
 - name: "Don't catch me!"
   category:
-    - new
     - cute
   name_l10n:
     ja: "掴むなよ！"
@@ -1597,7 +1593,6 @@
   file: farewell-farewell.mp3
 - name: "(Fall Guys upsets Suisei)"
   category:
-    - new
     - cute
   file:
     - "fall-bad-guys-1.mp3"
@@ -1606,5 +1601,39 @@
   name_l10n:
     ja: "♡や♡じゃ♡て♡"
     zh: "能干掉的话♡就♡干♡掉♡"
-  category: e
+  category:
+    - new
+    - cute
   file: "av96075539--509.4--511.mp3"
+  metadata:
+    site: bilibili
+    identifier: av96075539
+    time:
+      from: 509.4
+      to: 511
+- name: "Zett!"
+  file: "zett.mp3"
+  category:
+    - new
+    - cute
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
+- name: "No problem at all!"
+  name_l10n:
+    zh: "完全没有问题！"
+  file: "No-problem-at-all.mp3"
+  category:
+    - new
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
+- name: "Go away! Go away! Go away!"
+  name_l10n:
+    zh: "碍事碍事碍事！"
+  file: "Annoying-go-away.mp3"
+  category:
+    - new
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
