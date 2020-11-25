@@ -1568,12 +1568,10 @@
     - cute
   file: yoyoyo.mp3
 - name: "(Current in game: Fall Guys)"
-  category: new
   name_l10n:
     zh: "（糖豆人游玩中）"
   file: keyboard-sounds-on-fall-guys.mp3
 - name: "No sex harassment, hentai!"
-  category: new
   name_l10n:
     ja: "セクハラ反対、セクハラ変態！"
     zh: "性骚扰反对，性骚扰变态！"
@@ -1586,7 +1584,6 @@
     zh: "不要抓我啊！"
   file: dont-catch-me.mp3
 - name: "Farewell, farewell"
-  category: new
   name_l10n:
     ja: "さよなら、さよなら"
     zh: "再见~再见~"
