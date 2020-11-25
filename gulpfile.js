@@ -22,6 +22,15 @@ function genCategories(cb) {
   cb()
 }
 
+function genNotice(cb){
+  gulp
+    .src('./notice.yml')
+    .pipe(yaml({ space: 2 }))
+    .pipe(minify())
+    .pipe(gulp.dest('./dist/'))
+  cb()
+}
+
 function copyAssets(cb) {
   gulp.src('*.*', { read: false }).pipe(gulp.dest('./dist/assets'))
   gulp.src('./assets/**/*').pipe(gulp.dest('./dist/assets'))
@@ -38,7 +47,7 @@ function clean(cb) {
   cb()
 }
 
-const genTask = parallel(genSounds, genCategories, noJekyll, copyAssets)
+const genTask = parallel(genSounds, genCategories, genNotice, noJekyll, copyAssets)
 
 const defaultTask = series(clean, genTask)
 
