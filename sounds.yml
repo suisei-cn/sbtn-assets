@@ -1602,7 +1602,6 @@
     ja: "♡や♡じゃ♡て♡"
     zh: "能干掉的话♡就♡干♡掉♡"
   category:
-    - new
     - cute
   file: "av96075539--509.4--511.mp3"
   metadata:
@@ -1614,7 +1613,6 @@
 - name: "Zett!"
   file: "zett.mp3"
   category:
-    - new
     - cute
   metadata:
     site: bilibili
@@ -1623,8 +1621,6 @@
   name_l10n:
     zh: "完全没有问题！"
   file: "No-problem-at-all.mp3"
-  category:
-    - new
   metadata:
     site: bilibili
     _comment: Bilibili-only livestream
@@ -1632,8 +1628,12 @@
   name_l10n:
     zh: "碍事碍事碍事！"
   file: "Annoying-go-away.mp3"
-  category:
-    - new
   metadata:
     site: bilibili
     _comment: Bilibili-only livestream
+- name: "I reject my humanity!"
+  name_l10n:
+    zh: "我不做人了！"
+  file: "i-reject-my-humanity.mp3"
+  category:
+    - new
