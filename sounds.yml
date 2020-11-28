@@ -1632,5 +1632,49 @@
   name_l10n:
     zh: "我不做人了！"
   file: "i-reject-my-humanity.mp3"
+
+- name: "Chuchuchu~"
   category:
     - new
+    - cute
+  file: "20201128-chuchuchu.mp3"
+- name: "Hahaha~"
+  category:
+    - new
+    - cute
+  file: "20201128-hahaha.mp3"
+- name: "Haibibibi~"
+  category:
+    - new
+    - cute
+  file: "20201128-haibibibi.mp3"
+- name: "Kaha"
+  category:
+    - new
+    - cute
+  file: "20201128-kaha.mp3"
+- name: "Fxxk fxxk"
+  category:
+    - new
+    - cute
+  file: "20201128-random.mp3"
+- name: "Kaha"
+  category:
+    - new
+    - cute
+  file: "20201128-kaha.mp3"
+- name: "Ushishishishi"
+  category:
+    - new
+    - cute
+  file:
+    - "20201128-ushishishishi-1.mp3"
+    - "20201128-ushishishishi-2.mp3"
+- name: "Too expensive HORA"
+  name_l10n:
+    zh: "太贵了啊 HORA！"
+  category:
+    - new
+    - cute
+  file:
+    - "20201128-too-expensive-hora.mp3"
