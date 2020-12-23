@@ -1686,3 +1686,16 @@
     time:
       from: 1020.1
       to: 1028.4
+- name: "Subaru-chan, Miko-chan, kawaii!"
+  name_l10n:
+    zh: Subaru酱！Miko酱！可爱！
+    ja: スバルちゃん！みこちゃん！かわいい！
+  category:
+    - cute
+  file: QiQtiNK7jWw--1051.3--1055.8.mp3
+  metadata:
+    site: youtube
+    identifier: QiQtiNK7jWw
+    time:
+      from: 1051.3
+      to: 1055.8
