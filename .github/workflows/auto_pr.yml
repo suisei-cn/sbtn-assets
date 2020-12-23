@@ -31,7 +31,7 @@ jobs:
           format: yaml
           
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v2.8.0
+        uses: peter-evans/create-pull-request@v3.6.0
         with:
           committer: Suisei Bot <noreply@suisei.moe>
           author: ${{ steps.updatemeta.outputs.username }} <${{ steps.updatemeta.outputs.username }}@users.noreply.github.com>
