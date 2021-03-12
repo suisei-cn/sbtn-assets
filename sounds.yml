@@ -1671,7 +1671,6 @@
     ja: みこちゃん！
   category:
     - cute
-    - new
   file: QiQtiNK7jWw--1020.1--1028.4.mp3
   metadata:
     site: youtube
@@ -1685,7 +1684,6 @@
     ja: スバルちゃん！
   category:
     - cute
-    - new
   file: QiQtiNK7jWw--1038.3--1048.mp3
   metadata:
     site: youtube
@@ -1699,7 +1697,6 @@
     ja: スバルちゃん！みこちゃん！かわいい！
   category:
     - cute
-    - new
   file: QiQtiNK7jWw--1051.3--1055.8.mp3
   metadata:
     site: youtube
@@ -1707,3 +1704,75 @@
     time:
       from: 1051.3
       to: 1055.8
+- name: "AOkay!"
+  name_l10n:
+    zh: "啊哦可欸！"
+    ja: "あおけ！"
+  category:
+    - new
+    - cute
+  file: huhW3wLOFsA-aokay.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Thank you!"
+  name_l10n:
+    zh: "3Q！"
+    ja: "Thank you!"
+  category:
+    - new
+  file: huhW3wLOFsA-thankyou.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Get quickly or I'm gonna be angry!"
+  name_l10n:
+    zh: "快点！我要生气辣！"
+    ja: "早く！いらるよ！"
+  category:
+    - new
+    - cute
+  file: huhW3wLOFsA-hayaku.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "It's thiz!"
+  name_l10n:
+    zh: "似这个啊这个！"
+    ja: "これだよ！これ！"
+  category:
+    - new
+  file: huhW3wLOFsA-koredayokore.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Hey hey hey ya bastard gonna kill me?"
+  name_l10n:
+    zh: "你这混蛋，喂喂喂，你想打倒我嘛？"
+    ja: "おめぇ、てめぇ、おいおいおい、やられてのか？"
+  category:
+    - new
+  file: huhW3wLOFsA-ome.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "KILL IT!! GET THAT KILLED!"
+  name_l10n:
+    zh: "杀了这个家伙！！"
+    ja: "殺せ！！そいつ！"
+  category:
+    - new
+  file: huhW3wLOFsA-korose.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Let's go... NOOOOO!"
+  name_l10n:
+    zh: "走吧...不要啊啊啊啊！"
+    ja: "行きましょう...やだぁぁぁぁぁぁぁ！"
+  category:
+    - new
+  file: huhW3wLOFsA-yadaaa.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
