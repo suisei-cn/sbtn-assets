@@ -273,13 +273,13 @@
   category: cute
   file:
     - H1D_xTnXvSE--1021.74--1022.7.mp3
-    - '-cWxSCiPKk4--1511.069--1512.099.mp3'
-    - '-cWxSCiPKk4--1569.075--1570.109.mp3'
+    - "-cWxSCiPKk4--1511.069--1512.099.mp3"
+    - "-cWxSCiPKk4--1569.075--1570.109.mp3"
   metadata:
     site: youtube
     identifier:
       - H1D_xTnXvSE
-      - '-cWxSCiPKk4'
+      - "-cWxSCiPKk4"
     time:
       - from: 1021.74
         to: 1022.7
@@ -317,7 +317,7 @@
     time:
       from: 1526
       to: 1544.24
-- name: 'hoi, hoi, dokkoisho!'
+- name: "hoi, hoi, dokkoisho!"
   name_l10n:
     zh: hoi！hoi！六魁首！
     ja: hoi！hoi！ドッコイショ！
@@ -345,11 +345,11 @@
   name_l10n:
     zh: 皮卡卡卡卡卡卡卡~
     ja: ピカチュ~
-  file: '-cWxSCiPKk4--1616.884--1618.346.mp3'
+  file: "-cWxSCiPKk4--1616.884--1618.346.mp3"
   category: cute
   metadata:
     site: youtube
-    identifier: '-cWxSCiPKk4'
+    identifier: "-cWxSCiPKk4"
     time:
       from: 1616.884
       to: 1618.346
@@ -667,7 +667,7 @@
     time:
       from: 1312.648
       to: 1314.171
-- name: 'Woof Woof! '
+- name: "Woof Woof! "
   name_l10n:
     zh: 汪汪！
     ja: わんわん!
@@ -882,7 +882,7 @@
         to: 1830
       - from: 2173.937
         to: 2175.845
-- name: 'Aka-chan, aka-chan, aka-chan!'
+- name: "Aka-chan, aka-chan, aka-chan!"
   name_l10n:
     zh: 蓝酱，蓝酱，蓝酱！
     ja: らんちゃん，らんちゃん，らんちゃん！
@@ -1088,7 +1088,7 @@
     You have strived for you life, you don't need to push yourself hard any
     more.
   name_l10n:
-    zh: '你已经很努力的生存了, 不用再勉强自己了.'
+    zh: "你已经很努力的生存了, 不用再勉强自己了."
     ja: 人生頑張ったね、もう、無理しなくて良いだよ。
   file: mXOF0_qy8vI--2788.5--2793.mp3
   metadata:
@@ -1121,7 +1121,7 @@
       to: 3048.66
 - name: Do you have any last wish?
   name_l10n:
-    zh: '大家, 你们有什么遗愿么?'
+    zh: "大家, 你们有什么遗愿么?"
     ja: 皆んな、人生の最後に何して欲しい?
   file: mXOF0_qy8vI--2948.8--2951.52.mp3
   metadata:
@@ -1223,13 +1223,13 @@
     ja: じゃあね！
   file:
     - I58nqKO2fak--3639.59--3640.496.mp3
-    - '-cWxSCiPKk4--3606.307--3613.59.mp3'
+    - "-cWxSCiPKk4--3606.307--3613.59.mp3"
   category: cute
   metadata:
     site: youtube
     identifier:
       - I58nqKO2fak
-      - '-cWxSCiPKk4'
+      - "-cWxSCiPKk4"
     time:
       - from: 3639.59
         to: 3640.496
@@ -1239,25 +1239,25 @@
   name_l10n:
     zh: 无情的道谢机器
     ja: '"ありがとう" 複読機'
-  file: '-cWxSCiPKk4--463.5--469.136.mp3'
+  file: "-cWxSCiPKk4--463.5--469.136.mp3"
   metadata:
     site: youtube
-    identifier: '-cWxSCiPKk4'
+    identifier: "-cWxSCiPKk4"
     time:
       from: 463.5
       to: 469.136
-- name: 'ABA,ABA,ABA,ABA (STAMMERING)'
+- name: "ABA,ABA,ABA,ABA (STAMMERING)"
   name_l10n:
     zh: 阿巴阿巴阿巴阿巴
     ja: アバアバアバアバ
   category: cute
   file:
-    - '-cWxSCiPKk4--504.787--506.085.mp3'
+    - "-cWxSCiPKk4--504.787--506.085.mp3"
     - 53MFzm-7mgQ--1011.387--1016.376.mp3
   metadata:
     site: youtube
     identifier:
-      - '-cWxSCiPKk4'
+      - "-cWxSCiPKk4"
       - 53MFzm-7mgQ
     time:
       - from: 504.787
@@ -1269,13 +1269,13 @@
     zh: （各种口胡）
     ja: （いろいろなでたらめ）
   file:
-    - '-cWxSCiPKk4--1445.142--1448.413.mp3'
-    - '-cWxSCiPKk4--1625.381--1632.897.mp3'
-    - '-cWxSCiPKk4--2326.832--2332.343.mp3'
+    - "-cWxSCiPKk4--1445.142--1448.413.mp3"
+    - "-cWxSCiPKk4--1625.381--1632.897.mp3"
+    - "-cWxSCiPKk4--2326.832--2332.343.mp3"
   category: cute
   metadata:
     site: youtube
-    identifier: '-cWxSCiPKk4'
+    identifier: "-cWxSCiPKk4"
     time:
       - from: 1445.142
         to: 1448.413
@@ -1289,14 +1289,14 @@
     ja: は。。。（ふわふわ）
   category: cute
   file:
-    - '-cWxSCiPKk4--1720.262--1722.mp3'
+    - "-cWxSCiPKk4--1720.262--1722.mp3"
     - 53MFzm-7mgQ--1353.336--1355.511.mp3
     - 53MFzm-7mgQ--1545.081--1551.858.mp3
     - 53MFzm-7mgQ--3684.363--3686.095.mp3
   metadata:
     site: youtube
     identifier:
-      - '-cWxSCiPKk4'
+      - "-cWxSCiPKk4"
       - 53MFzm-7mgQ
     time:
       - from: 1720.262
@@ -1311,15 +1311,15 @@
   name_l10n:
     zh: 帽 子 戏 法
     ja: '"ハットトリック"'
-  file: '-cWxSCiPKk4--2812.32--2817.835.mp3'
+  file: "-cWxSCiPKk4--2812.32--2817.835.mp3"
   category: hihihi
   metadata:
     site: youtube
-    identifier: '-cWxSCiPKk4'
+    identifier: "-cWxSCiPKk4"
     time:
       from: 2812.32
       to: 2817.835
-- name: 'Junk computer, let''s count your sins in detail!'
+- name: "Junk computer, let's count your sins in detail!"
   name_l10n:
     zh: 杂鱼臭电脑，来细数你的罪恶吧！
     ja: クソ雑魚パソコン、君の罪を数えろ！
@@ -1500,8 +1500,8 @@
       to: 3543.159
 - name: The song of 'Miss'
   name_l10n:
-    zh: '''Miss''之歌'
-    ja: '''Miss''の歌'
+    zh: "'Miss'之歌"
+    ja: "'Miss'の歌"
   file: 53MFzm-7mgQ--3924.105--3950.mp3
   metadata:
     site: youtube
@@ -1563,11 +1563,11 @@
   category:
     - cute
   file: yoyoyo.mp3
-- name: '(Current in game: Fall Guys)'
+- name: "(Current in game: Fall Guys)"
   name_l10n:
     zh: （糖豆人游玩中）
   file: keyboard-sounds-on-fall-guys.mp3
-- name: 'No sex harassment, hentai!'
+- name: "No sex harassment, hentai!"
   name_l10n:
     ja: セクハラ反対、セクハラ変態！
     zh: 性骚扰反对，性骚扰变态！
@@ -1579,7 +1579,7 @@
     ja: 掴むなよ！
     zh: 不要抓我啊！
   file: dont-catch-me.mp3
-- name: 'Farewell, farewell'
+- name: "Farewell, farewell"
   name_l10n:
     ja: さよなら、さよなら
     zh: 再见~再见~
@@ -1590,7 +1590,7 @@
   file:
     - fall-bad-guys-1.mp3
     - fall-bad-guys-2.mp3
-- name: 'If time permits, ♡ger♡her♡done♡'
+- name: "If time permits, ♡ger♡her♡done♡"
   name_l10n:
     ja: ♡や♡じゃ♡て♡
     zh: 能干掉的话♡就♡干♡掉♡
@@ -1773,6 +1773,79 @@
   category:
     - new
   file: huhW3wLOFsA-yadaaa.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Humanoid Trumpet"
+  name_l10n:
+    zh: "人 形 喇 叭"
+    ja: "バババババ～"
+  category:
+    - new
+    - cute
+  file: huhW3wLOFsA-bababa.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Get out! Ora!"
+  name_l10n:
+    zh: "快点出来！哦拉！"
+    ja: "出ていけ！おら！"
+  category:
+    - new
+    - cute
+  file: huhW3wLOFsA-deteike.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "We are Hololive!"
+  name_l10n:
+    zh: "我们就是 Hololive！"
+    ja: "こちとらホロライブぞ！"
+  category:
+    - new
+  file: huhW3wLOFsA-kochitora.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Polite thieves"
+  name_l10n:
+    zh: "有礼貌的小偷"
+    ja: "丁寧な泥棒"
+  category:
+    - new
+  file: huhW3wLOFsA-politethieves.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Drinking wine"
+  name_l10n:
+    zh: "喝红酒"
+    ja: "ワインを飲みます"
+  category:
+    - new
+  file: huhW3wLOFsA-wine.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Thank you!"
+  name_l10n:
+    zh: "谢谢！"
+    ja: "ありがとうございます！"
+  category:
+    - new
+  file: huhW3wLOFsA-arigato.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Miko-chan pink! Pink! Pin-pppppppppppppp"
+  name_l10n:
+    zh: "Miko 亲粉色 粉色 米分分分分分分分分分分分分分分"
+    ja: "みこち ピンク ピンク Pin-pppppppppppppp"
+  category:
+    - new
+    - cute
+  file: huhW3wLOFsA-mikopink.mp3
   metadata:
     site: youtube
     identifier: huhW3wLOFsA
