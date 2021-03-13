@@ -48,3 +48,5 @@ jobs:
         run: |
           aws s3 sync dist s3://${{ secrets.DEPLOY_S3_BUCKET }} --follow-symlinks --delete
           aws cloudfront create-invalidation --distribution-id ${{ secrets.DEPLOY_CF_DISTRIBUTION_ID }} --paths /sounds.json
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.DEPLOY_CF_DISTRIBUTION_ID }} --paths /categories.json
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.DEPLOY_CF_DISTRIBUTION_ID }} --paths /notice.json
