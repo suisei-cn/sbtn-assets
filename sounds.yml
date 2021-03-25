@@ -242,7 +242,7 @@
         to: 3646.936
       - from: 4481.229
         to: 4484.395
-- name: Today Sui-chan is still kawaii!(Frightened Only)
+- name: Today Sui-chan is still kawaii! (Frightened)
   name_l10n:
     zh: 彗酱今天也很卡哇伊～！（吃瘪限定）
     ja: すいちゃんは、今日もかわいい〜！（びびってる限定）
@@ -1845,3 +1845,14 @@
   metadata:
     site: youtube
     identifier: huhW3wLOFsA
+- name: Today Sui-chan is still kawaii! (Handsome)
+  name_l10n:
+    zh: "彗酱今天也很卡哇伊～！（池面音版本）"
+    ja: "すいちゃんは、今日もかわいい（イケボバージョン）"
+  category:
+    - new
+    - kawaii
+  file: nUHYdkbbgdQ-kawaii.mp3
+  metadata:
+    site: youtube
+    identifier: nUHYdkbbgdQ
