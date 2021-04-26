@@ -28,3 +28,9 @@ psycho:
     ja: 精神病がおこる
     zh: 精神病发作
   order: 5
+sui_english:
+  name: Hoshi Concept English episode
+  name_l10n:
+    ja: すいちゃん's 英語
+    zh: 星概念英语
+  order: 5
