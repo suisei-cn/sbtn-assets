@@ -114,7 +114,7 @@
 - name: Sui-chan's still cute today-y-y-y!
   name_l10n:
     zh: 彗酱今天也很卡哇伊！(杂鱼臭电脑限定)
-    ja: すいちゃんは、今日もかわいいぃぃ!(クソザコパソコン限定)
+    ja: (--translate--)
   file: RXIVBFiuZcA--307.807--323.08.mp3
   category: 01-kawaii
   metadata:
@@ -371,7 +371,7 @@
 - name: (Went crazy)
   name_l10n:
     zh: (抓狂)
-    ja: (気が狂いそうになる)
+    ja: (--translate--)
   file:
     - 53MFzm-7mgQ--1822.4--1830.mp3
   category: 07-childish-cutie
