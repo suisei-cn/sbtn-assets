@@ -25,4 +25,18 @@ for (const i of yamlObj) {
   }
 }
 
+console.log('Validating categories.yml...')
+const yamlCategoryText = fs.readFileSync('categories.yml', 'utf-8')
+const yamlCategoryObj = yaml.parse(yamlCategoryText)
+const categories = Object.keys(yamlCategoryObj)
+for (const i of yamlObj) {
+  if (!i.category) continue
+  const cats = Array.isArray(i.category) ? i.category : [i.category]
+  for (const j of cats) {
+    if (!categories.includes(j)) {
+      console.log(`${i.file}: Category ${j} is not in category list.`)
+    }
+  }
+}
+
 console.log('Successfully validated.')
