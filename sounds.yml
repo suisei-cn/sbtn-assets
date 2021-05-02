@@ -6,75 +6,414 @@
     - ehhh.mp3
     - ehhh2.mp3
     - ehhh3.mp3
+  metadata:
+    site: bilibili
+    identifier: av86035709
   type: center
-- name: Eeehihihihi
+- name: >-
+    It's your diamond in the rough, your shooting star,​ Hoshimachi Suisei, in
+    the flash!
+  _comment: |
+    English translation via https://www.youtube.com/watch?v=_B-Q10J9KSg
+    Chinese translation via https://www.bilibili.com/video/av94833283
   name_l10n:
-    ja: イヒヒヒヒ
-    zh: 噫hihihihi
+    zh: 如同彗星一般登场的星之原石，我是星街彗星！
+    ja: 彗星​のごとくあらわれた​スター​の原石​☆​​星街すいせいです！
+  file: _B-Q10J9KSg--11.4--14.5.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: _B-Q10J9KSg
+    time:
+      from: 11.4
+      to: 14.5
+- name: Today Sui-chan Wa~~~ Na~~~ is still kawaii!
+  name_l10n:
+    zh: 彗酱哇~~~ 呐~~~ 今天也很卡哇伊！
+    ja: すいちゃんは~~~、な~~~、今日もかわいい〜！
+  file: 53MFzm-7mgQ--167.5--179.838.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 167.5
+      to: 179.838
+- name: Today Sui-chan Nyaaaaaa is still kawaii!
+  name_l10n:
+    zh: 彗酱Nyaaaaaa今天也很卡哇伊！
+    ja: すいちゃんは、Nyaaaaaa、今日もかわいい〜！
+  file: clXusKnSBY0--138.591--160.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: clXusKnSBY0
+    time:
+      from: 138.591
+      to: 160
+- name: Today Sui-chan is still kawaii!(Soft)
+  name_l10n:
+    zh: 彗酱今天也很卡哇伊～！（软绵绵）
+    ja: すいちゃんは、今日もかわいい〜！（ふわふわ）
+  category: 01-kawaii
+  file: N4Op5gpV2AU--403.5--412.5.mp3
+  metadata:
+    site: youtube
+    identifier: N4Op5gpV2AU
+    time:
+      from: 403.5
+      to: 412.5
+- name: Today Sui-chan is still kawaii!(Madame's version)
+  name_l10n:
+    zh: 彗酱今天也很卡哇伊～（大小姐限定）
+    ja: すいちゃんは、今日もかわいい〜！（おじょうさま限定）
+  file: Qpc1ysd9S9c--173.764--191.575.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 173.764
+      to: 191.575
+- name: Today Sui-chan is still kawaii! (Frightened)
+  name_l10n:
+    zh: 彗酱今天也很卡哇伊～！（吃瘪限定）
+    ja: すいちゃんは、今日もかわいい〜！（びびってる限定）
+  file: RLKWrmGTemM--154.9--163.35.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: RLKWrmGTemM
+    time:
+      from: 154.9
+      to: 163.35
+- name: ...today Sui-chan is still kawaii! (Lovely and quietly)
+  name_l10n:
+    zh: ...彗酱今天也很卡哇伊～！（奶声奶气）
+    ja: ...すいちゃんは、今日もかわいい〜！（愛らしい、ひそやかに）
+  file: U84Pn69RIy0--321.75--349.56.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: U84Pn69RIy0
+    time:
+      from: 321.75
+      to: 349.56
+- name: Today Sui-chan is still kawaiiiiiiiiiiiiiiiiiiiiii!
+  name_l10n:
+    zh: 彗酱今天也很卡哇伊伊伊伊伊伊伊伊伊伊伊～！
+    ja: すいちゃんは、今日もかわいいぃぃぃぃぃぃぃぃぃ〜！
+  file: yc3xAjmXZ1A--85.4--97.7.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: yc3xAjmXZ1A
+    time:
+      from: 85.4
+      to: 97.7
+- name: Sui-chan's still cute today-y-y-y!
+  name_l10n:
+    zh: 彗酱今天也很卡哇伊！(杂鱼臭电脑限定)
+    ja: (--translate--)
+  file: RXIVBFiuZcA--307.807--323.08.mp3
+  category: 01-kawaii
+  metadata:
+    site: youtube
+    identifier: RXIVBFiuZcA
+    other_sources:
+      - site: bilibili
+        identifier: av87674746
+    time:
+      from: 307.807
+      to: 323.08
+- name: Today Sui-chan is still kawaii! (Handsome)
+  name_l10n:
+    zh: "彗酱今天也很卡哇伊～！（池面音版本）"
+    ja: "すいちゃんは、今日もかわいい（イケボバージョン）"
+  category: 01-kawaii
+  file: nUHYdkbbgdQ-kawaii.mp3
+  metadata:
+    site: youtube
+    identifier: nUHYdkbbgdQ
+- name: Burn it!
+  name_l10n:
+    zh: 燃烧吧！
+    ja: 燃えろ！
   file:
-    - ehhh.mp3
-    - ehhh2.mp3
-    - ehhh3.mp3
-  category: psycho
-- name: Ahahaha
+    - onemachi-burn-it-1.mp3
+    - onemachi-burn-it-2.mp3
+    - onemachi-burn-it-3.mp3
+  category: 10-anemachi
+  metadata:
+    site: bilibili
+    identifier: av87674746
+    other_sources:
+      - site: youtube
+        identifier: RXIVBFiuZcA
+    time:
+      from: 398.3
+      to: 399.2
+- name: Stop~~~StopStop!!!
   name_l10n:
-    zh: 啊哈哈哈
-    ja: あははははは
-  category: hihihi
+    zh: Stop~~~StopStop!!!
+    ja: Stop~~~StopStop!!!
+  file: 53MFzm-7mgQ--596.186--602.mp3
+  category: 11-sui-nglish
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 596.186
+      to: 602
+- name: Fxxk fxxk
+  category: 11-sui-nglish
+  file: 20201128-random.mp3
+- name: Merry Christmas!
+  name_l10n:
+    zh: Merry Christmas!
+    ja: Merry Christmas!
+  file: boRajPeaJwA--3275--3276.mp3
+  category: 11-sui-nglish
+  metadata:
+    site: youtube
+    identifier: boRajPeaJwA
+    time:
+      from: 3275.26
+      to: 3276.265
+- name: "AOkay!"
+  name_l10n:
+    zh: "啊OK！"
+    ja: "あおけ(OK)！"
+  category: 11-sui-nglish
+  file: huhW3wLOFsA-aokay.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Thank you!"
+  name_l10n:
+    zh: "3Q！"
+    ja: "Thank you!"
+  category: 11-sui-nglish
+  file: huhW3wLOFsA-thankyou.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: Lambda!
+  name_l10n:
+    zh: Lambda!
+    ja: らむだ！
+  category: 11-sui-nglish
+  metadata:
+    site: youtube
+    identifier: LS6srVfrxIk
+    time:
+      from: 1327.3
+      to: 1328.4
+  file: LS6srVfrxIk--1327.3--1328.4.mp3
+  type: normal
+- name: Hi Honey!
+  name_l10n:
+    zh: "Hi Honey!"
+    ja: "Hi Honey!"
+  category: 11-sui-nglish
+  file: MvaMY_92T-c--3931--3933.mp3
+  metadata:
+    site: youtube
+    identifier: MvaMY_92T-c
+- name: Holy F***
+  name_l10n:
+    zh: Holy F***
+    ja: Holy F***
+  file: pLUf75CZg38--3802.3--3806.8.mp3
+  category: 11-sui-nglish
+  metadata:
+    site: youtube
+    identifier: pLUf75CZg38
+    time:
+      from: 3802.3
+      to: 3806.8
+- name: The song of 'Miss'
+  name_l10n:
+    zh: "'Miss'之歌"
+    ja: "'Miss'の歌"
+  file: 53MFzm-7mgQ--3924.105--3950.mp3
+  category: 12-sui-lody
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 3924.105
+      to: 3950
+- name: Pien→~ Pien↑~ Pien↓~
+  name_l10n:
+    zh: Pien→~ Pien↑~ Pien↓~
+    ja: Pien→~ Pien↑~ Pien↓~
+  category: 12-sui-lody
+  file: clXusKnSBY0--1024--1027.415.mp3
+  metadata:
+    site: youtube
+    identifier: clXusKnSBY0
+    time:
+      from: 1024
+      to: 1027.415
+- name: Unravel
+  name_l10n:
+    zh: Unravel
+    ja: Unravel
+  file: clXusKnSBY0--5822.387--5845.454.mp3
+  category: 12-sui-lody
+  metadata:
+    site: youtube
+    identifier: clXusKnSBY0
+    time:
+      from: 5822.387
+      to: 5845.454
+- name: hoihoihoi~
+  name_l10n:
+    zh: hoihoihoi~
+    ja: hoihoihoi~
+  category: 12-sui-lody
+  file: H1D_xTnXvSE--1526--1544.24.mp3
+  metadata:
+    site: youtube
+    identifier: H1D_xTnXvSE
+    time:
+      from: 1526
+      to: 1544.24
+- name: Song of Frogs ft. Kanata & Coco.
+  name_l10n:
+    zh: 青蛙之歌 ft. 彼方 & 可可
+    ja: かえるのうた ft. かなたん&ココ
+  file: mXOF0_qy8vI--3039--3048.66.mp3
+  category: 12-sui-lody
+  metadata:
+    site: youtube
+    identifier: mXOF0_qy8vI
+    time:
+      from: 3039
+      to: 3048.66
+- name: Hahaha~
+  category: 04-hihihi
+  file: 20201128-hahaha.mp3
+- name: Kaha
+  category: 04-hihihi
+  file: 20201128-kaha.mp3
+- name: '"Hat-trick"'
+  name_l10n:
+    zh: 帽 子 戏 法
+    ja: '"ハットトリック"'
+  file: "-cWxSCiPKk4--2812.32--2817.835.mp3"
+  category: 04-hihihi
+  metadata:
+    site: youtube
+    identifier: "-cWxSCiPKk4"
+    time:
+      from: 2812.32
+      to: 2817.835
+- name: (The laughter of the lady)
+  name_l10n:
+    zh: （大小姐的笑声）
+    ja: （お嬢様の笑い声）
+  category: 04-hihihi
+  file: Qpc1ysd9S9c--301.875--303.367.mp3
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 301.875
+      to: 303.367
+- name: Hehehehehe
+  name_l10n:
+    zh: 嘿嘿嘿嘿嘿
+    ja: へへへへへ
+  category: 04-hihihi
+  file: Qpc1ysd9S9c--3946.3--3947.35.mp3
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 3946.3
+      to: 3947.35
+- name: Ahhh... wait me a moment!
+  name_l10n:
+    zh: 哈哈哈哈哈...等等我
+    ja: '"ハハハハハ、待って"'
+  file: "pLUf75CZg38--1980.543--1985.657.mp3"
+  category: 04-hihihi
+  metadata:
+    site: youtube
+    identifier: pLUf75CZg38
+- name: Na~~~ (Lovely)
+  name_l10n:
+    zh: 呐~~~（奶声奶气）
+    ja: な~~~（愛らしい、ひそやかに）
+  category: 07-childish-cutie
+  file: 0WsDVU_W6QU--4942.557--4955.393.mp3
+  metadata:
+    site: youtube
+    identifier: 0WsDVU_W6QU
+    time:
+      from: 4942.557
+      to: 4955.393
+- name: Ne Ne Ne Ne~~~
+  name_l10n:
+    zh: 呐 呐 呐 呐~~~
+    ja: ね ね ね ね~~~
   file:
-    - ahhh.mp3
-    - pLUf75CZg38--2806.545--2811.583.mp3
-    - pLUf75CZg38--3058.48--3064.917.mp3
-  type: normal
-- name: Big sister~
-  name_l10n:
-    zh: 姐姐，姐姐～
-    ja: お姉ちゃん，お姉ちゃん～
-  file: j1Rrg4BnBjs--2774--2778.5.mp3
-  type: normal
-  category: cute
+    - 53MFzm-7mgQ--445.244--450.mp3
+  category: 07-childish-cutie
   metadata:
     site: youtube
-    identifier: j1Rrg4BnBjs
+    identifier: 53MFzm-7mgQ
     time:
-      from: 2774
-      to: 2778.5
-- name: I'm not calling you!
+      - from: 445.244
+        to: 450
+- name: (Went crazy)
   name_l10n:
-    zh: 没叫你啊！
-    ja: 呼んで無いですけど！
-  file: j1Rrg4BnBjs--2781--2784.5.mp3
-  type: normal
+    zh: (抓狂)
+    ja: (--translate--)
+  file:
+    - 53MFzm-7mgQ--1822.4--1830.mp3
+  category: 07-childish-cutie
   metadata:
     site: youtube
-    identifier: j1Rrg4BnBjs
-    time:
-      from: 2781
-      to: 2784.5
-- name: But I Shirakami don't believe in you!
+    identifier: 53MFzm-7mgQ
+- name: Don't like that!(Being Cute)
   name_l10n:
-    zh: 但是我白上不相信你的鬼话
-    ja: でも白上信じられないな
-  file: QcZp1-pPfxU--3563.9--3566.6.mp3
-  type: normal
+    zh: 不要不要不要不要~~~（撒娇）
+    ja: やだやだやだやだ~~~（甘える）
+  file: 53MFzm-7mgQ--2409.323--2419.087.mp3
+  category: 07-childish-cutie
   metadata:
     site: youtube
-    identifier: QcZp1-pPfxU
+    identifier: 53MFzm-7mgQ
     time:
-      from: 3563.9
-      to: 3566.6
-- name: I'm gonna kill ya all over here!
+      from: 2409.323
+      to: 2419.087
+- name: (Being Cute)
   name_l10n:
-    zh: 就在这里把你们都杀光！
-    ja: みんなここで殺してやるよ
-  file: QcZp1-pPfxU-f--3486--3489.mp3
+    zh: （撒娇）
+    ja: （甘える）
+  file: 53MFzm-7mgQ--4413.854--4428.528.mp3
+  category: 02-cute
   metadata:
     site: youtube
-    identifier: QcZp1-pPfxU
+    identifier: 53MFzm-7mgQ
     time:
-      from: 3486
-      to: 3489
-  type: normal
+      from: 4413.854
+      to: 4428.528
+- name: Boo...（Being Cute）
+  name_l10n:
+    zh: 呜。。。（撒娇）
+    ja: うう。。。（甘える）
+  file: 53MFzm-7mgQ--4902--4903.758.mp3
+  category: 07-childish-cutie
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 4902
+      to: 4903.758
 - name: I wanna play Tetris with the girls as the blocks!​
   name_l10n:
     zh: 想把大家当作俄罗斯方块玩！
@@ -86,6 +425,7 @@
       from: 0
       to: 2
   file: _B-Q10J9KSg--0--2.mp3
+  category: 09-sayings
   type: normal
 - name: Tetris sure is fun!​
   name_l10n:
@@ -98,7 +438,17 @@
       from: 57
       to: 59
   file: _B-Q10J9KSg--57--59.mp3
+  category: 09-sayings
   type: normal
+- name: Sorry! I'll kill everyone here!
+  name_l10n:
+    zh: 对不起！我会把在场的所有人都杀光的！
+    ja: ごめんなさい！ここで皆殺しにしてやる！
+  file: 6GW8cEyNH7o.mp3
+  category: 09-sayings
+  metadata:
+    site: youtube
+    identifier: 6GW8cEyNH7o
 - name: I'll definitely kill everyone
   name_l10n:
     zh: 绝对要把大家都杀掉
@@ -110,255 +460,180 @@
       from: 503.55
       to: 505.55
   file: GfbgRHGLOZw--503.5--505.9.mp3
+  category: 09-sayings
   type: normal
-- name: (Scream) ...I'm sorry.
+- name: I reject my humanity!
   name_l10n:
-    zh: (非洲人的呐喊) ...抱歉。
-    ja: (あ゛ぁ゛ぁ゛ぁ゛ぁ゛ぁ゛) ... しみません。
-  category: psycho
+    zh: 我不做人了！
+  file: i-reject-my-humanity.mp3
+  category: 09-sayings
+- name: I'm gonna kill ya all over here!
+  name_l10n:
+    zh: 就在这里把你们都杀光！
+    ja: みんなここで殺してやるよ
+  file: QcZp1-pPfxU-f--3486--3489.mp3
+  category: 09-sayings
   metadata:
     site: youtube
-    identifier: kKm-MqVoLzg
+    identifier: QcZp1-pPfxU
     time:
-      from: 2032.5
-      to: 2042.6
-  file: kKm-MqVoLzg--2032.5--2042.6.mp3
+      from: 3486
+      to: 3489
   type: normal
-- name: Lambda!
+- name: But I Shirakami don't believe in you!
   name_l10n:
-    zh: Lambda!
-    ja: らむだ！
-  category: cute
+    zh: 但是我白上不相信你的鬼话
+    ja: でも白上信じられないな
+  file: QcZp1-pPfxU--3563.9--3566.6.mp3
+  category: 09-sayings
+  type: normal
   metadata:
     site: youtube
-    identifier: LS6srVfrxIk
+    identifier: QcZp1-pPfxU
     time:
-      from: 1327.3
-      to: 1328.4
-  file: LS6srVfrxIk--1327.3--1328.4.mp3
-  type: normal
-- name: Sui-chan made no mistake watamever it was!
-  _comment: |
-    For translators: this is a meme of Watame, see youtu.be/h6IwhTuKSRk
+      from: 3563.9
+      to: 3566.6
+- name: Do you have any last wish?
   name_l10n:
-    zh: wtm才没有错呢！
-    ja: すいちゃんはわるくないよねぇ...
-  file: IRr6aAS3zLQ--2596.4--2599.mp3
-  category: cute
+    zh: "大家, 你们有什么遗愿么?"
+    ja: 皆んな、人生の最後に何して欲しい?
+  file: mXOF0_qy8vI--2948.8--2951.52.mp3
+  category: 09-sayings
   metadata:
     site: youtube
-    identifier: IRr6aAS3zLQ
+    identifier: mXOF0_qy8vI
     time:
-      from: 2596.4
-      to: 2599
+      from: 2948.8
+      to: 2951.52
 - name: >-
-    It's your diamond in the rough, your shooting star,​ Hoshimachi Suisei, in
-    the flash!
-  _comment: |
-    English translation via https://www.youtube.com/watch?v=_B-Q10J9KSg
-    Chinese translation via https://www.bilibili.com/video/av94833283
+    You have strived for you life, you don't need to push yourself hard any
+    more.
   name_l10n:
-    zh: 如同彗星一般登场的星之原石，我是星街彗星！
-    ja: 彗星​のごとくあらわれた​スター​の原石​☆​​星街すいせいです！
-  file: _B-Q10J9KSg--11.4--14.5.mp3
-  category: kawaii
+    zh: "你已经很努力的生存了, 不用再勉强自己了."
+    ja: 人生頑張ったね、もう、無理しなくて良いだよ。
+  file: mXOF0_qy8vI--2788.5--2793.mp3
+  category: 09-sayings
   metadata:
     site: youtube
-    identifier: _B-Q10J9KSg
+    identifier: mXOF0_qy8vI
     time:
-      from: 11.4
-      to: 14.5
-- name: I'm not invited!!
-  _comment: |
-    zh: https://t.bilibili.com/395499860137488715?tab=2
-    ja: https://twitter.com/suisei_hosimati/status/1267046799421792256
+      from: 2788.5
+      to: 2793
+- name: "We are Hololive!"
   name_l10n:
-    zh: 咋不带我玩儿呢！！
-    ja: 私誘われていないんだけど！！
-  file: PJf3XZ636-0--66--68.05.mp3
+    zh: "我们就是 Hololive！"
+    ja: "こちとらホロライブぞ！"
+  file: huhW3wLOFsA-kochitora.mp3
+  category: 09-sayings
   metadata:
     site: youtube
-    identifier: PJf3XZ636-0
-    time:
-      from: 66
-      to: 68.05
-- name: LOL
+    identifier: huhW3wLOFsA
+- name: I'm home
   name_l10n:
-    zh: （笑）
-    ja: （笑）
-  category: hihihi
-  file: BjuYqoY_CxI--1842.9--1953.36.mp3
+    zh: 我回来啦
+    ja: ただいま
+  file: clXusKnSBY0--115.616--176.423.mp3
+  category: 08-say-hello
   metadata:
     site: youtube
-    identifier: BjuYqoY_CxI
+    identifier: clXusKnSBY0
     time:
-      from: 1842.9
-      to: 1953.36
-- name: (Mario BGM...) Ahhhhh!
+      from: 115.616
+      to: 116.423
+- name: '"Thanks" Repeater'
   name_l10n:
-    zh: （马里奥背景音乐...）啊！
-    ja: (Mario BGM...) Ahhhhh!
-  category: psycho
-  file: KTuIsqb7G1s--711.4--716.5.mp3
-  metadata:
-    site: youtube
-    identifier: KTuIsqb7G1s
-    time:
-      from: 711.4
-      to: 716.5
-- name: Today Sui-chan is still kawaiiiiiiiiiiiiiiiiiiiiii!
-  name_l10n:
-    zh: 彗酱今天也很卡哇伊伊伊伊伊伊伊伊伊伊伊～！
-    ja: すいちゃんは、今日もかわいいぃぃぃぃぃぃぃぃぃ〜！
-  file: yc3xAjmXZ1A--85.4--97.7.mp3
-  category: kawaii
-  metadata:
-    site: youtube
-    identifier: yc3xAjmXZ1A
-    time:
-      from: 85.4
-      to: 97.7
-- name: Sui Cappella(Frightened Only)
-  name_l10n:
-    zh: 星乐器（吃瘪限定）
-    ja: すい楽器（びびってる限定）
-  category: cute
-  file:
-    - RLKWrmGTemM--139--144.5.mp3
-    - 53MFzm-7mgQ--3068.511--3075.579.mp3
-    - 53MFzm-7mgQ--3463.236--3646.936.mp3
-    - 53MFzm-7mgQ--4481.229--4484.395.mp3
-  metadata:
-    site: youtube
-    identifier:
-      - RLKWrmGTemM
-      - 53MFzm-7mgQ
-    time:
-      - from: 139
-        to: 144.5
-      - from: 3068.511
-        to: 3075.579
-      - from: 3463.236
-        to: 3646.936
-      - from: 4481.229
-        to: 4484.395
-- name: Today Sui-chan is still kawaii! (Frightened)
-  name_l10n:
-    zh: 彗酱今天也很卡哇伊～！（吃瘪限定）
-    ja: すいちゃんは、今日もかわいい〜！（びびってる限定）
-  file: RLKWrmGTemM--154.9--163.35.mp3
-  category: kawaii
-  metadata:
-    site: youtube
-    identifier: RLKWrmGTemM
-    time:
-      from: 154.9
-      to: 163.35
-- name: ...today Sui-chan is still kawaii! (Lovely and quietly)
-  name_l10n:
-    zh: ...彗酱今天也很卡哇伊～！（奶声奶气）
-    ja: ...すいちゃんは、今日もかわいい〜！（愛らしい、ひそやかに）
-  file: U84Pn69RIy0--321.75--349.56.mp3
-  category: kawaii
-  metadata:
-    site: youtube
-    identifier: U84Pn69RIy0
-    time:
-      from: 321.75
-      to: 349.56
-- name: Pikachu~
-  name_l10n:
-    zh: 皮卡丘~
-    ja: ピカチュウ~
-  category: cute
-  file:
-    - H1D_xTnXvSE--1021.74--1022.7.mp3
-    - "-cWxSCiPKk4--1511.069--1512.099.mp3"
-    - "-cWxSCiPKk4--1569.075--1570.109.mp3"
-  metadata:
-    site: youtube
-    identifier:
-      - H1D_xTnXvSE
-      - "-cWxSCiPKk4"
-    time:
-      - from: 1021.74
-        to: 1022.7
-      - from: 1511.069
-        to: 1512.099
-      - from: 1569.075
-        to: 1570.109
-- name: Ultimate flapping tongue
-  name_l10n:
-    zh: 极致弹舌
-    ja: 極道弹舌
-  category: cute
-  file:
-    - H1D_xTnXvSE--1449.82--1451.75.mp3
-    - pLUf75CZg38--3303.694--3308.923.mp3
-  metadata:
-    site: youtube
-    identifier:
-      - H1D_xTnXvSE
-      - pLUf75CZg38
-    time:
-      - from: 1449.82
-        to: 1451.75
-      - from: 3303.694
-        to: 3308.923
-- name: hoihoihoi~
-  name_l10n:
-    zh: hoihoihoi~
-    ja: hoihoihoi~
-  category: cute
-  file: H1D_xTnXvSE--1526--1544.24.mp3
-  metadata:
-    site: youtube
-    identifier: H1D_xTnXvSE
-    time:
-      from: 1526
-      to: 1544.24
-- name: "hoi, hoi, dokkoisho!"
-  name_l10n:
-    zh: hoi！hoi！六魁首！
-    ja: hoi！hoi！ドッコイショ！
-  category: cute
-  file: H1D_xTnXvSE--1577.2--1582.9.mp3
-  metadata:
-    site: youtube
-    identifier: H1D_xTnXvSE
-    time:
-      from: 1577.2
-      to: 1582.9
-- name: PIKAAAAACHUUUUUUUUUUUUUUUUU~
-  name_l10n:
-    zh: 皮卡卡卡卡丘丘丘丘丘丘丘丘丘丘丘丘~
-    ja: ピカチュウウウウウウウウウウ~
-  category: cute
-  file: H1D_xTnXvSE--1212--1216.mp3
-  metadata:
-    site: youtube
-    identifier: H1D_xTnXvSE
-    time:
-      from: 1212
-      to: 1216
-- name: PIKAAAAAAAAAAAAAAAAA~
-  name_l10n:
-    zh: 皮卡卡卡卡卡卡卡~
-    ja: ピカチュ~
-  file: "-cWxSCiPKk4--1616.884--1618.346.mp3"
-  category: cute
+    zh: 无情的道谢机器
+    ja: '"ありがとう" 複読機'
+  file: "-cWxSCiPKk4--463.5--469.136.mp3"
+  category: 08-say-hello
   metadata:
     site: youtube
     identifier: "-cWxSCiPKk4"
     time:
-      from: 1616.884
-      to: 1618.346
+      from: 463.5
+      to: 469.136
+- name: "Farewell, farewell"
+  name_l10n:
+    ja: さよなら、さよなら
+    zh: 再见~再见~
+  file: farewell-farewell.mp3
+  category: 08-say-hello
+- name: "Thank you!"
+  name_l10n:
+    zh: "谢谢！"
+    ja: "ありがとうございます！"
+  category: 08-say-hello
+  file: huhW3wLOFsA-arigato.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: Goodbye!
+  name_l10n:
+    zh: 再见啦！
+    ja: じゃあね！
+  file:
+    - I58nqKO2fak--3639.59--3640.496.mp3
+    - "-cWxSCiPKk4--3606.307--3613.59.mp3"
+  category: 08-say-hello
+  metadata:
+    site: youtube
+    identifier:
+      - I58nqKO2fak
+      - "-cWxSCiPKk4"
+    time:
+      - from: 3639.59
+        to: 3640.496
+      - from: 3606.307
+        to: 3613.59
+- name: Thanks (Chinese)
+  name_l10n:
+    zh: 谢谢
+    ja: ありがとう（中国語）
+  file: thanks.mp3
+  category: 08-say-hello
+  metadata:
+    site: bilibili
+    time:
+      from: 3672.495
+      to: 3679.785
+- name: Sorry→~↑
+  name_l10n:
+    zh: 抱歉！→~↑
+    ja: すみません！→~↑
+  file: pLUf75CZg38--2780--2788.057.mp3
+  category: 08-say-hello
+  metadata:
+    site: youtube
+    identifier: pLUf75CZg38
+    time:
+      from: 2780
+      to: 2788.057
+- name: Eeehihihihi
+  name_l10n:
+    ja: イヒヒヒヒ
+    zh: 噫hihihihi
+  file:
+    - ehhh.mp3
+    - ehhh2.mp3
+    - ehhh3.mp3
+  category: 03-psycho
+- name: Eh-Ahhh~~~
+  name_l10n:
+    zh: 饿啊~~~
+    ja: Eh-Ahhh~~~
+  category: 02-cute
+  file: 0WsDVU_W6QU--954.659--956.353.mp3
+  metadata:
+    site: youtube
+    identifier: 0WsDVU_W6QU
+    time:
+      from: 954.659
+      to: 956.353
 - name: (Being sick)
   name_l10n:
     zh: （发病中）
     ja: （病気中）
-  category:
-    - psycho
+  category: 03-psycho
   file:
     - H1D_xTnXvSE--2342.29--2348.99.mp3
     - clXusKnSBY0--1203.459--1209.377.mp3
@@ -394,149 +669,17 @@
         to: 2700.186
       - from: 1718.591
         to: 1721
-- name: LOL
-  name_l10n:
-    zh: （狂笑）
-    ja: （大笑いする）
-  category: hihihi
-  file: DGjBouw_yeI--2561.09--2677.55.mp3
-  metadata:
-    site: youtube
-    identifier: DGjBouw_yeI
-    time:
-      from: 2561.09
-      to: 2677.55
-- name: Pararira *n
-  name_l10n:
-    zh: Pararira *n
-    ja: Pararira *n
-  category: cute
-  file: MORh1OhPnak--10.75--16.47.mp3
-  metadata:
-    site: youtube
-    identifier: MORh1OhPnak
-    time:
-      from: 10.75
-      to: 16.47
-- name: Confession (Roboco and Suisei)
-  name_l10n:
-    zh: 萝卜子与彗酱的表白
-    ja: ロボ子と彗星の告白
-  file: tsbLvsv2Sao--3391.38--3419.6.mp3
-  metadata:
-    site: youtube
-    identifier: tsbLvsv2Sao
-    time:
-      from: 3391.38
-      to: 3419.6
-- name: Confession (Only Suisei)
-  name_l10n:
-    zh: 彗酱的表白
-    ja: 彗星の告白
-  file: tsbLvsv2Sao--3391.38--3419.6--edited.mp3
-  metadata:
-    site: youtube
-    identifier: tsbLvsv2Sao
-    time:
-      from: 3391.38
-      to: 3419.6
-- name: BAKA!
-  name_l10n:
-    zh: 笨蛋！
-    ja: バカ
-  file: lnrFF5TnvYI-baka.mp3
-  category: cute
-  metadata:
-    site: youtube
-    identifier: lnrFF5TnvYI
-- name: (scold)
-  name_l10n:
-    zh: （骂）
-    ja: （叱る）
-  file: lnrFF5TnvYI-scold.mp3
-  metadata:
-    site: youtube
-    identifier: lnrFF5TnvYI
-- name: Aiiiiiiiiiiiiiii
-  name_l10n:
-    zh: Aiiiiiiiiiiiiiii
-    ja: Aiiiiiiiiiiiiiii
-  category: cute
-  file: Aiiiiiiiiiiiiiii.mp3
-  metadata:
-    site: bilibili
-    identifier: av95334801
-- name: Doooooooooo~~~
-  name_l10n:
-    zh: Doooooooooo~~~
-    ja: Doooooooooo~~~
-  category: cute
-  file: doooooooooo.mp3
-  metadata:
-    site: bilibili
-- name: Thanks (Chinese)
-  name_l10n:
-    zh: 谢谢
-    ja: ありがとう（中国語）
-  file: thanks.mp3
-  metadata:
-    site: bilibili
-    time:
-      from: 3672.495
-      to: 3679.785
-- name: Ahhhhhh Damn!
-  name_l10n:
-    zh: 啊啊啊可恶啊！
-    ja: あああああああクソかよ！
-  file: lwszUzu_ARc--928--934.mp3
-  category: psycho
-  metadata:
-    site: youtube
-    identifier: lwszUzu_ARc
-    time:
-      from: 928.151
-      to: 934.117
-- name: Get away!
-  name_l10n:
-    zh: 住手啊！
-    ja: やめる！
-  file: lwszUzu_ARc--2498--2502.mp3
-  metadata:
-    site: youtube
-    identifier: lwszUzu_ARc
-    time:
-      from: 2498.851
-      to: 2502.772
-- name: Wuaaaaaaaa...
-  name_l10n:
-    zh: Wuaaaaaaaa...
-    ja: Wuaaaaaaaa...
-  category: cute
-  file: lwszUzu_ARc--5655--5660.mp3
-  metadata:
-    site: youtube
-    identifier: lwszUzu_ARc
-    time:
-      from: 5655.012
-      to: 5660.261
-- name: Dance Mama
-  name_l10n:
-    zh: Dance Mama
-    ja: Dance Mama
-  file: lwszUzu_ARc--8172--8177.mp3
-  metadata:
-    site: youtube
-    identifier: lwszUzu_ARc
-    time:
-      from: 8172.947
-      to: 8177.934
+- name: Ushishishishi
+  category: 03-psycho
+  file:
+    - 20201128-ushishishishi-1.mp3
+    - 20201128-ushishishishi-2.mp3
 - name: Ahhhhhh!
   name_l10n:
     zh: 啊啊啊啊
     ja: あああああああ
-  category: psycho
+  category: 03-psycho
   file:
-    - lwszUzu_ARc--8180--8184.mp3
     - pLUf75CZg38--430.302--436.mp3
     - pLUf75CZg38--2793.522--2795.mp3
     - pLUf75CZg38--3179.149--3185.929.mp3
@@ -546,13 +689,10 @@
   metadata:
     site: youtube
     identifier:
-      - lwszUzu_ARc
       - pLUf75CZg38
       - 0WsDVU_W6QU
       - 53MFzm-7mgQ
     time:
-      - from: 8180.789
-        to: 8184.828
       - from: 430.302
         to: 436
       - from: 2793.522
@@ -565,125 +705,46 @@
         to: 1024.441
       - from: 1448.407
         to: 1449.307
-- name: Nyaaaaa~
+- name: Ahahaha
   name_l10n:
-    zh: Nyaaaaa~
-    ja: Nyaaaaa~
-  category: cute
-  file: boRajPeaJwA--2745--2752.mp3
+    zh: 啊哈哈哈
+    ja: あははははは
+  category: 03-psycho
+  file:
+    - ahhh.mp3
+    - pLUf75CZg38--2806.545--2811.583.mp3
+    - pLUf75CZg38--3058.48--3064.917.mp3
+  type: normal
+- name: Miko-chan!
+  name_l10n:
+    zh: Miko亲！
+    ja: みこちん！
+  category: 03-psycho
+  file: QiQtiNK7jWw--1020.1--1028.4.mp3
   metadata:
     site: youtube
-    identifier: boRajPeaJwA
+    identifier: QiQtiNK7jWw
     time:
-      from: 2745.158
-      to: 2752.189
-- name: Help Me!!!(Volume attention!)
+      from: 1020.1
+      to: 1028.4
+- name: (Scream) ...I'm sorry.
   name_l10n:
-    zh: 救命啊！！！（音量注意!）
-    ja: 助けて！！！（ボリュームノート!）
-  file: boRajPeaJwA--1583--1589.mp3
+    zh: (非洲人的呐喊) ...抱歉。
+    ja: (あ゛ぁ゛ぁ゛ぁ゛ぁ゛ぁ゛) ... しみません。
+  category: 03-psycho
   metadata:
     site: youtube
-    identifier: boRajPeaJwA
+    identifier: kKm-MqVoLzg
     time:
-      from: 1583.648
-      to: 1589.874
-- name: Punai Punai!
-  name_l10n:
-    zh: Punai Punai!
-    ja: プナイプナイ!
-  category: cute
-  file: boRajPeaJwA--2020--2022.mp3
-  metadata:
-    site: youtube
-    identifier: boRajPeaJwA
-    time:
-      from: 2020.581
-      to: 2022.649
-- name: Merry Christmas!
-  name_l10n:
-    zh: Merry Christmas!
-    ja: Merry Christmas!
-  file: boRajPeaJwA--3275--3276.mp3
-  metadata:
-    site: youtube
-    identifier: boRajPeaJwA
-    time:
-      from: 3275.26
-      to: 3276.265
-- name: (Boiling water)
-  name_l10n:
-    zh: （水 开 了）
-    ja: （お湯）
-  category: cute
-  file: boRajPeaJwA--3962--3967.mp3
-  metadata:
-    site: youtube
-    identifier: boRajPeaJwA
-    time:
-      from: 3962.019
-      to: 3967.475
-- name: Today Sui-chan is still kawaii!(Soft)
-  name_l10n:
-    zh: 彗酱今天也很卡哇伊～！（软绵绵）
-    ja: すいちゃんは、今日もかわいい〜！（ふわふわ）
-  category: kawaii
-  file: N4Op5gpV2AU--403.5--412.5.mp3
-  metadata:
-    site: youtube
-    identifier: N4Op5gpV2AU
-    time:
-      from: 403.5
-      to: 412.5
-- name: Uhuhuhu Ehihihi
-  name_l10n:
-    zh: 唔呼呼呼 噫嘻嘻嘻
-    ja: うふふふ いひひひ
-  category: psycho
-  file: 1768lvpfxRI--3210--3216.mp3
-  metadata:
-    site: youtube
-    identifier: 1768lvpfxRI
-    time:
-      from: 3210
-      to: 3216
-- name: Sorry! I'll kill everyone here!
-  name_l10n:
-    zh: 对不起！我会把在场的所有人都杀光的！
-    ja: ごめんなさい！ここで皆殺しにしてやる！
-  file: 6GW8cEyNH7o.mp3
-  metadata:
-    site: youtube
-    identifier: 6GW8cEyNH7o
-- name: I love you (choco) chu~
-  name_l10n:
-    zh: 最喜欢了 啾~
-    ja: 大好き ちゅん~
-  category: cute
-  file: FY-WtN7c7tI--1312.648--1314.171.mp3
-  metadata:
-    site: youtube
-    identifier: FY-WtN7c7tI
-    time:
-      from: 1312.648
-      to: 1314.171
-- name: "Woof Woof! "
-  name_l10n:
-    zh: 汪汪！
-    ja: わんわん!
-  category: cute
-  file: FY-WtN7c7tI--380.5--381.174.mp3
-  metadata:
-    site: youtube
-    identifier: FY-WtN7c7tI
-    time:
-      from: 380.5
-      to: 381.174
+      from: 2032.5
+      to: 2042.6
+  file: kKm-MqVoLzg--2032.5--2042.6.mp3
+  type: normal
 - name: I’m very happy~
   name_l10n:
     zh: 好开心~
     ja: 嬉しい~
-  category: cute
+  category: 03-psycho
   file: FY-WtN7c7tI--472.467--473.863.mp3
   metadata:
     site: youtube
@@ -691,145 +752,275 @@
     time:
       from: 472.467
       to: 473.863
-- name: I feel embarrassed~
+- name: Uhuhuhu Ehihihi
   name_l10n:
-    zh: 好害羞~
-    ja: 恥ずかしい~
-  category: cute
-  file: FY-WtN7c7tI--746.285--749.923.mp3
+    zh: 唔呼呼呼 噫嘻嘻嘻
+    ja: うふふふ いひひひ
+  category: 03-psycho
+  file: 1768lvpfxRI--3210--3216.mp3
   metadata:
     site: youtube
-    identifier: FY-WtN7c7tI
+    identifier: 1768lvpfxRI
     time:
-      from: 746.285
-      to: 749.923
-- name: Ei Nya
+      from: 3210
+      to: 3216
+- name: Mom~~~ (World-class beautiful sound)
   name_l10n:
-    zh: Ei Nya
-    ja: Ei Nya
-  category: cute
-  file: 2TRd-2q9JYA--934.169--934.645.mp3
+    zh: 妈妈~~~（世界级美声）
+    ja: ママ~~~（世界に誇る美音）
+  file: 53MFzm-7mgQ--3534.881--3543.159.mp3
+  category: 03-psycho
   metadata:
     site: youtube
-    identifier: 2TRd-2q9JYA
+    identifier: 53MFzm-7mgQ
     time:
-      from: 934.169
-      to: 934.645
-- name: (Talk Nonsense)
+      from: 3534.881
+      to: 3543.159
+- name: Na!!! (angry)
   name_l10n:
-    zh: （胡言乱语）
-    ja: （でたらめ）
-  category: cute
+    zh: 呐！！！（恼怒）
+    ja: な！！！（怒り）
+  category: 06-angry
   file:
-    - 2TRd-2q9JYA--3634.903--3638.6842.mp3
-    - boRajPeaJwA--1564--1577.mp3
-    - pLUf75CZg38--695.664--722.762.mp3
-    - pLUf75CZg38--1913.155--1918.837.mp3
-    - pLUf75CZg38--1957.304--1962.699.mp3
-    - pLUf75CZg38--2066.737-2117.848.mp3
-    - pLUf75CZg38--2118.064--2136.733.mp3
-    - pLUf75CZg38--2761.676--2776.016.mp3
-    - pLUf75CZg38--3715--3724.275.mp3
-    - 0WsDVU_W6QU--939.717--947.618.mp3
-    - 0WsDVU_W6QU--2202.963--2207.233.mp3
-    - I58nqKO2fak--226.274--229.927.mp3
+    - 0WsDVU_W6QU--2308.182--2310.823.mp3
+    - 0WsDVU_W6QU--2978.508--2980.508.mp3
+    - 0WsDVU_W6QU--4134.913--4142.164.mp3
+    - 0WsDVU_W6QU--9735.791--9738.mp3
+  metadata:
+    site: youtube
+    identifier: 0WsDVU_W6QU
+    time:
+      - from: 2308.182
+        to: 2310.823
+      - from: 2978.508
+        to: 2980.508
+      - from: 4134.913
+        to: 4142.164
+      - from: 9735.791
+        to: 9738
+- name: "Get out! Ora!"
+  name_l10n:
+    zh: "快点出来！哦拉！"
+    ja: "出ていけ！おら！"
+  category: 06-angry
+  file: huhW3wLOFsA-deteike.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: Go away! Go away! Go away!
+  name_l10n:
+    zh: 碍事碍事碍事！
+    ja: 邪魔邪魔邪魔、邪魔だよ
+  file: Annoying-go-away.mp3
+  category: 06-angry
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
+- name: Ahhh!!! What the hell is this game!
+  name_l10n:
+    zh: 啊！！！这游戏什么啊！
+    ja: あ！！！何だこのゲームは！
+  file: 0WsDVU_W6QU--3802--3812.721.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: 0WsDVU_W6QU
+    time:
+      from: 3802
+      to: 3812.721
+- name: Rage Value MAX
+  name_l10n:
+    zh: 怒气值MAX
+    ja: 怒りの値MAX
+  file: 53MFzm-7mgQ--589.567--592.261.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 589.567
+      to: 592.261
+- name: Don't catch me!
+  category: 06-angry
+  name_l10n:
+    ja: 掴むなよ！
+    zh: 不要抓我啊！
+  file: dont-catch-me.mp3
+- name: "Get quickly or I'm gonna be angry!"
+  name_l10n:
+    zh: "快点！我要生气辣！"
+    ja: "早く！いらるよ！"
+  category: 06-angry
+  file: huhW3wLOFsA-hayaku.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "KILL IT!! GET THAT KILLED!"
+  name_l10n:
+    zh: "杀了这个家伙！！"
+    ja: "殺せ！！そいつ！"
+  category: 06-angry
+  file: huhW3wLOFsA-korose.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "Let's go... NOOOOO!"
+  name_l10n:
+    zh: "走吧...不要啊啊啊啊！"
+    ja: "行きましょう...やだぁぁぁぁぁぁぁ！"
+  category: 06-angry
+  file: huhW3wLOFsA-yadaaa.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: BAKA!
+  name_l10n:
+    zh: 笨蛋！
+    ja: バカ
+  file: lnrFF5TnvYI-baka.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: lnrFF5TnvYI
+- name: (scold)
+  name_l10n:
+    zh: （骂）
+    ja: （叱る）
+  file: lnrFF5TnvYI-scold.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: lnrFF5TnvYI
+- name: Ahhhh it's too late dammit!
+  name_l10n:
+    zh: 啊啊啊赶不上了，可恶啊！
+    ja: あああああああまにあわない、クソかよ！
+  file: lwszUzu_ARc--928--934.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: lwszUzu_ARc
+    time:
+      from: 928.151
+      to: 934.117
+- name: Chuu... will never happen! (angry)
+  name_l10n:
+    zh: 啾⋯⋯ 怎么可能呢! (怒)
+    ja: ちゅうしてするをけ無いだろう！(怒)
+  file: mXOF0_qy8vI--2986--2988.36.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: mXOF0_qy8vI
+    time:
+      from: 2986
+      to: 2988.36
+- name: I!DO!NOT!WANNA!DO!THIS!
+  name_l10n:
+    zh: 不想去!做!呢!就是不想去做！
+    ja: したく…ない!な!...したくない!
+  file: RLKWrmGTemM--139--144.5.mp3
+  category: 06-angry
+  metadata:
+    site: youtube
+    identifier: RLKWrmGTemM
+- name: '"Ticker-tape Timer"'
+  name_l10n:
+    zh: “打 点 计 时 器”
+    ja: “タイムスイッチ”
+  category: 05-sui-strumental
+  file: 0WsDVU_W6QU--4485--4495.634.mp3
+  metadata:
+    site: youtube
+    identifier: 0WsDVU_W6QU
+    time:
+      from: 4485
+      to: 4495.634
+- name: '"Stuka Siren" (✓ Repeat)'
+  name_l10n:
+    zh: “防空警报”（✓ 洗脑循环）
+    ja: “空襲警報”（✓ Repeat）
+  category: 05-sui-strumental
+  file:
+    - 0WsDVU_W6QU--4565.222--4568.472.mp3
+    - 0WsDVU_W6QU--4832--4837.468.mp3
+    - 53MFzm-7mgQ--5237.061--5243.mp3
+    - 53MFzm-7mgQ--4481.229--4484.395.mp3
+    - 53MFzm-7mgQ--2173.937--2175.845.mp3
   metadata:
     site: youtube
     identifier:
-      - 2TRd-2q9JYA
-      - boRajPeaJwA
-      - pLUf75CZg38
       - 0WsDVU_W6QU
-      - I58nqKO2fak
+      - 53MFzm-7mgQ
     time:
-      - from: 3634.903
-        to: 3638.684
-      - from: 1564.709
-        to: 1577.448
-      - from: 695.664
-        to: 722.762
-      - from: 1913.155
-        to: 1918.837
-      - from: 1957.304
-        to: 1962.699
-      - from: 2066.737
-        to: 2117.848
-      - from: 2118.064
-        to: 2136.733
-      - from: 2761.676
-        to: 2776.016
-      - from: 3715
-        to: 3724.275
-      - from: 939.717
-        to: 947.618
-      - from: 2202.963
-        to: 2207.233
-      - from: 226.274
-        to: 229.927
-- name: Yoooooo~
+      - from: 4565.222
+        to: 4568.472
+      - from: 4832
+        to: 4837.468
+      - from: 5237.061
+        to: 5243
+      - from: 4481.229
+        to: 4484.395
+- name: Howl~~~
   name_l10n:
-    zh: Yoooooo~
-    ja: Yoooooo~
-  category: cute
-  file: clXusKnSBY0--110.243--111.749.mp3
+    zh: 嗷呜~~~
+    ja: ウォ~~~
+  file: 53MFzm-7mgQ--3356.25--3368.646.mp3
+  category: 05-sui-strumental
   metadata:
     site: youtube
-    identifier: clXusKnSBY0
+    identifier: 53MFzm-7mgQ
     time:
-      from: 110.243
-      to: 111.749
-- name: I'm home
+      from: 3356.25
+      to: 3368.646
+- name: Sui Cappella(Frightened Only)
   name_l10n:
-    zh: 我回来啦
-    ja: ただいま
-  file: clXusKnSBY0--115.616--176.423.mp3
+    zh: 星乐器（吃瘪限定）
+    ja: すい楽器（びびってる限定）
+  category: 02-cute
+  file:
+    - 53MFzm-7mgQ--3463.236--3646.936.mp3
   metadata:
     site: youtube
-    identifier: clXusKnSBY0
+    identifier:
+      - 53MFzm-7mgQ
     time:
-      from: 115.616
-      to: 116.423
-- name: Today Sui-chan Nyaaaaaa is still kawaii!
+      - from: 3463.236
+        to: 3646.936
+- name: Doooooooooo~~~
   name_l10n:
-    zh: 彗酱Nyaaaaaa今天也很卡哇伊！
-    ja: すいちゃんは、Nyaaaaaa、今日もかわいい〜！
-  file: clXusKnSBY0--138.591--160.mp3
-  category: kawaii
+    zh: Doooooooooo~~~
+    ja: Doooooooooo~~~
+  category: 05-sui-strumental
+  file: doooooooooo.mp3
+  metadata:
+    site: bilibili
+- name: Bobobo~
+  category: 05-sui-strumental
+  file: bobobo.mp3
+- name: Chuchuchu~
+  category: 05-sui-strumental
+  file: 20201128-chuchuchu.mp3
+- name: Haibibibi~
+  category: 05-sui-strumental
+  file: 20201128-haibibibi.mp3
+- name: (Boiling water)
+  name_l10n:
+    zh: （水 开 了）
+    ja: （お湯）
+  category: 05-sui-strumental
+  file: boRajPeaJwA--3962--3967.mp3
   metadata:
     site: youtube
-    identifier: clXusKnSBY0
+    identifier: boRajPeaJwA
     time:
-      from: 138.591
-      to: 160
-- name: Pien→~ Pien↑~ Pien↓~
-  name_l10n:
-    zh: Pien→~ Pien↑~ Pien↓~
-    ja: Pien→~ Pien↑~ Pien↓~
-  category: cute
-  file: clXusKnSBY0--1024--1027.415.mp3
-  metadata:
-    site: youtube
-    identifier: clXusKnSBY0
-    time:
-      from: 1024
-      to: 1027.415
-- name: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
-  name_l10n:
-    zh: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
-    ja: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
-  category: cute
-  file: clXusKnSBY0--1037.399--1042.938.mp3
-  metadata:
-    site: youtube
-    identifier: clXusKnSBY0
-    time:
-      from: 1037.399
-      to: 1042.938
+      from: 3962.019
+      to: 3967.475
 - name: Ohhhhh↓~ Ohhhhhh→~ Ohhhhhhhhh↑~
   name_l10n:
     zh: Ohhhhh↓~ Ohhhhhh→~ Ohhhhhhhhh↑~
     ja: Ohhhhh↓~ Ohhhhhh→~ Ohhhhhhhhh↑~
-  category: cute
+  category: 02-cute
   file: clXusKnSBY0--2305.387--2312.375.mp3
   metadata:
     site: youtube
@@ -837,89 +1028,127 @@
     time:
       from: 2305.387
       to: 2312.375
-- name: Unravel
+- name: Ultimate flapping tongue
   name_l10n:
-    zh: Unravel
-    ja: Unravel
-  file: clXusKnSBY0--5822.387--5845.454.mp3
-  category: psycho
-  metadata:
-    site: youtube
-    identifier: clXusKnSBY0
-    time:
-      from: 5822.387
-      to: 5845.454
-- name: Holy F***
-  name_l10n:
-    zh: Holy F***
-    ja: Holy F***
-  file: pLUf75CZg38--3802.3--3806.8.mp3
-  category: cute
-  metadata:
-    site: youtube
-    identifier: pLUf75CZg38
-    time:
-      from: 3802.3
-      to: 3806.8
-- name: (Lament)
-  name_l10n:
-    zh: （悲鸣）
-    ja: （悲鳴）
-  category: cute
+    zh: 极致弹舌
+    ja: 極道弹舌
+  category: 05-sui-strumental
   file:
-    - pLUf75CZg38--1980.543--1985.657.mp3
-    - 53MFzm-7mgQ--1822.4--1830.mp3
-    - 53MFzm-7mgQ--2173.937--2175.845.mp3
+    - H1D_xTnXvSE--1449.82--1451.75.mp3
+    - pLUf75CZg38--3303.694--3308.923.mp3
   metadata:
     site: youtube
     identifier:
+      - H1D_xTnXvSE
       - pLUf75CZg38
-      - 53MFzm-7mgQ
     time:
-      - from: 1980.543
-        to: 1985.657
-      - from: 1822.4
-        to: 1830
-      - from: 2173.937
-        to: 2175.845
-- name: "Baby, baby, baby!"
+      - from: 1449.82
+        to: 1451.75
+      - from: 3303.694
+        to: 3308.923
+- name: "Humanoid Trumpet"
   name_l10n:
-    zh: 宝贝，宝贝，宝贝！
-    ja: 赤ちゃん，赤ちゃん，赤ちゃん！
-  file: pLUf75CZg38--567.08--574.946.mp3
+    zh: "人 形 喇 叭"
+    ja: "バババババ～"
+  category: 05-sui-strumental
+  file: huhW3wLOFsA-bababa.mp3
   metadata:
     site: youtube
-    identifier: pLUf75CZg38
-    time:
-      from: 567.08
-      to: 574.946
-- name: No!!!... (deep breath)
+    identifier: huhW3wLOFsA
+- name: "Drinking wine"
   name_l10n:
-    zh: 这不妙啊！！！...（深呼吸）
-    ja: オーケーじゃなーい！！！...（息をする）
-  file: pLUf75CZg38--634.594--648.mp3
+    zh: "喝红酒"
+    ja: "ワインを飲みます"
+  category: 05-sui-strumental
+  file:
+    - huhW3wLOFsA-wine_01.mp3
+    - huhW3wLOFsA-wine_02.mp3
   metadata:
     site: youtube
-    identifier: pLUf75CZg38
-    time:
-      from: 634.594
-      to: 648
-- name: Sorry→~↑
+    identifier: huhW3wLOFsA
+- name: "(Current in game: Fall Guys)"
   name_l10n:
-    zh: 抱歉！→~↑
-    ja: すみません！→~↑
-  file: pLUf75CZg38--2780--2788.057.mp3
+    zh: （糖豆人游玩中）
+    ja: (Fall Guysプレー中)
+  file: keyboard-sounds-on-fall-guys.mp3
+  category: 05-sui-strumental
+- name: (Mario BGM...)
+  name_l10n:
+    zh: （马里奥背景音乐...）
+    ja: (Mario BGM...)
+  category: 05-sui-strumental
+  file: KTuIsqb7G1s--711.4--716.5.mp3
   metadata:
     site: youtube
-    identifier: pLUf75CZg38
+    identifier: KTuIsqb7G1s
     time:
-      from: 2780
-      to: 2788.057
+      from: 711.4
+      to: 716.5
+- name: Pararira *n
+  name_l10n:
+    zh: Pararira *n
+    ja: Pararira *n
+  category: 05-sui-strumental
+  file: MORh1OhPnak--10.75--16.47.mp3
+  metadata:
+    site: youtube
+    identifier: MORh1OhPnak
+    time:
+      from: 10.75
+      to: 16.47
+- name: (Hip instrument and laughter)
+  name_l10n:
+    zh: (尻乐器)(笑)
+    ja: (けつドラム)(笑)
+  file: mXOF0_qy8vI--911--913.5.mp3
+  category: 05-sui-strumental
+  metadata:
+    site: youtube
+    identifier: mXOF0_qy8vI
+    time:
+      from: 911
+      to: 913.5
+- name: (Boiling water 2.0)
+  name_l10n:
+    zh: (中之壶 v2)
+    ja: (沸騰したお湯 v2)
+  file: mXOF0_qy8vI--2024--2031.mp3
+  category: 05-sui-strumental
+  metadata:
+    site: youtube
+    identifier: mXOF0_qy8vI
+    time:
+      from: 2024
+      to: 2031
+- name: bangbang!
+  name_l10n:
+    zh: 梆梆！
+    ja: ばんばん！
+  category: 05-sui-strumental
+  file: Qpc1ysd9S9c--1863--1873.648.mp3
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 1863
+      to: 1863.648
+- name: (A leaky balloon)
+  name_l10n:
+    zh: （漏气的气球）
+    ja: （空気の漏れる風船）
+  file: Qpc1ysd9S9c--2384.61--2385.24.mp3
+  category: 05-sui-strumental
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 2384.61
+      to: 2385.24
 - name: Ahh...Ahh!
   name_l10n:
     zh: 哇... 哇！
     ja: うわー...うわー！
-  category: cute
+  category: 02-cute
   file: 0WsDVU_W6QU--279.217--282.923.mp3
   metadata:
     site: youtube
@@ -931,7 +1160,7 @@
   name_l10n:
     zh: 星猫
     ja: 星猫
-  category: cute
+  category: 02-cute
   file:
     - 0WsDVU_W6QU--2968.326--2970.mp3
     - 0WsDVU_W6QU--1702.619--1705.827.mp3
@@ -957,337 +1186,44 @@
         to: 2693
       - from: 2805.694
         to: 2809.149
-- name: Eh-Ahhh~~~
+- name: Ah ~ ~ ~ It hurts!
   name_l10n:
-    zh: 饿啊~~~
-    ja: Eh-Ahhh~~~
-  category: cute
-  file: 0WsDVU_W6QU--954.659--956.353.mp3
-  metadata:
-    site: youtube
-    identifier: 0WsDVU_W6QU
-    time:
-      from: 954.659
-      to: 956.353
-- name: Na!!! (angry)
-  name_l10n:
-    zh: 呐！！！（恼怒）
-    ja: な！！！（怒り）
-  category: cute
+    zh: 啊~~~疼疼疼！
+    ja: あ～～痛くて痛いです!
   file:
-    - 0WsDVU_W6QU--2308.182--2310.823.mp3
-    - 0WsDVU_W6QU--2978.508--2980.508.mp3
-    - 0WsDVU_W6QU--3605.335--3614.21.mp3
-    - 0WsDVU_W6QU--4134.913--4142.164.mp3
-    - 0WsDVU_W6QU--9735.791--9738.mp3
+    - 53MFzm-7mgQ--920--923.736.mp3
+    - 53MFzm-7mgQ--1721.885--1730.mp3
+    - 53MFzm-7mgQ--1931.822--1947.044.mp3
+  category: 02-cute
   metadata:
     site: youtube
-    identifier: 0WsDVU_W6QU
+    identifier: 53MFzm-7mgQ
     time:
-      - from: 2308.182
-        to: 2310.823
-      - from: 2978.508
-        to: 2980.508
-      - from: 3605.335
-        to: 3614.21
-      - from: 4134.913
-        to: 4142.164
-      - from: 9735.791
-        to: 9738
-- name: Na~~~ (Lovely)
-  name_l10n:
-    zh: 呐~~~（奶声奶气）
-    ja: な~~~（愛らしい、ひそやかに）
-  category: cute
-  file: 0WsDVU_W6QU--4942.557--4955.393.mp3
-  metadata:
-    site: youtube
-    identifier: 0WsDVU_W6QU
-    time:
-      from: 4942.557
-      to: 4955.393
-- name: Ahhh!!! What the hell is this game!
-  name_l10n:
-    zh: 啊！！！这游戏什么啊！
-    ja: あ！！！何だこのゲームわ！
-  file: 0WsDVU_W6QU--3802--3812.721.mp3
-  metadata:
-    site: youtube
-    identifier: 0WsDVU_W6QU
-    time:
-      from: 3802
-      to: 3812.721
-- name: '"Ticker-tape Timer"'
-  name_l10n:
-    zh: “打 点 计 时 器”
-    ja: “タイムスイッチ”
-  category: cute
-  file: 0WsDVU_W6QU--4485--4495.634.mp3
-  metadata:
-    site: youtube
-    identifier: 0WsDVU_W6QU
-    time:
-      from: 4485
-      to: 4495.634
-- name: '"Stuka Siren" (✓ Repeat)'
-  name_l10n:
-    zh: “防空警报”（✓ 洗脑循环）
-    ja: “空襲警報”（✓ Repeat）
-  category: cute
-  file:
-    - 0WsDVU_W6QU--4565.222--4568.472.mp3
-    - 0WsDVU_W6QU--4832--4837.468.mp3
-    - 53MFzm-7mgQ--5237.061--5243.mp3
-  metadata:
-    site: youtube
-    identifier:
-      - 0WsDVU_W6QU
-      - 53MFzm-7mgQ
-    time:
-      - from: 4565.222
-        to: 4568.472
-      - from: 4832
-        to: 4837.468
-      - from: 5237.061
-        to: 5243
-- name: Hehehehehe
-  name_l10n:
-    zh: 嘿嘿嘿嘿嘿
-    ja: へへへへへ
-  category: cute
-  file: Qpc1ysd9S9c--3946.3--3947.35.mp3
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 3946.3
-      to: 3947.35
-- name: (Hip instrument and laughter)
-  name_l10n:
-    zh: (尻乐器)(笑)
-    ja: (けつドラム)(笑)
-  file: mXOF0_qy8vI--911--913.5.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 911
-      to: 913.5
-- name: (Boiling water 2.0)
-  name_l10n:
-    zh: (中之壶 v2)
-    ja: (沸騰したお湯 v2)
-  file: mXOF0_qy8vI--2024--2031.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 2024
-      to: 2031
-- name: >-
-    You have strived for you life, you don't need to push yourself hard any
-    more.
-  name_l10n:
-    zh: "你已经很努力的生存了, 不用再勉强自己了."
-    ja: 人生頑張ったね、もう、無理しなくて良いだよ。
-  file: mXOF0_qy8vI--2788.5--2793.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 2788.5
-      to: 2793
-- name: Chuu... will never happen! (angry)
-  name_l10n:
-    zh: 啾⋯⋯ 怎么可能呢! (怒)
-    ja: ちゅうしてするをけ無いだろう！(怒)
-  file: mXOF0_qy8vI--2986--2988.36.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 2986
-      to: 2988.36
-- name: Song of Frogs ft. Kanata & Coco.
-  name_l10n:
-    zh: 青蛙之歌 ft. 彼方 & 可可
-    ja: かえるのうた ft. かなたん&ココ
-  file: mXOF0_qy8vI--3039--3048.66.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 3039
-      to: 3048.66
-- name: Do you have any last wish?
-  name_l10n:
-    zh: "大家, 你们有什么遗愿么?"
-    ja: 皆んな、人生の最後に何して欲しい?
-  file: mXOF0_qy8vI--2948.8--2951.52.mp3
-  metadata:
-    site: youtube
-    identifier: mXOF0_qy8vI
-    time:
-      from: 2948.8
-      to: 2951.52
-- name: Today Sui-chan is still kawaii!(Madame's version)
-  name_l10n:
-    zh: 彗酱今天也很卡哇伊～（大小姐限定）
-    ja: すいちゃんは、今日もかわいい〜！（おじょうさま限定）
-  file: Qpc1ysd9S9c--173.764--191.575.mp3
-  category: kawaii
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 173.764
-      to: 191.575
-- name: (The laughter of the lady)
-  name_l10n:
-    zh: （大小姐的笑声）
-    ja: （お嬢様の笑い声）
-  category: hihihi
-  file: Qpc1ysd9S9c--301.875--303.367.mp3
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 301.875
-      to: 303.367
-- name: Clang!
-  name_l10n:
-    zh: 铛铛！
-    ja: がちゃん！
-  category: cute
-  file: Qpc1ysd9S9c--1863--1873.648.mp3
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 1863
-      to: 1863.648
-- name: Chu~...Chu~~~
-  name_l10n:
-    zh: 啾~...啾~~~
-    ja: ちゅん~...ちゅん~~~
-  category: cute
-  file: Qpc1ysd9S9c--1869.893--1875.804.mp3
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 1869.893
-      to: 1875.804
-- name: (A leaky balloon)
-  name_l10n:
-    zh: （漏气的气球）
-    ja: （空気の漏れる風船）
-  file: Qpc1ysd9S9c--2384.61--2385.24.mp3
-  category: cute
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 2384.61
-      to: 2385.24
-- name: (change countenance as fast as light)
-  name_l10n:
-    zh: （光 速 变 脸）
-    ja: （光のように早く顔色が変わりました）
-  file: Qpc1ysd9S9c--2780.652--2789.727.mp3
-  metadata:
-    site: youtube
-    identifier: Qpc1ysd9S9c
-    time:
-      from: 2780.652
-      to: 2789.727
-- name: (Can't stop laughing)
-  name_l10n:
-    zh: （笑个不停）
-    ja: （笑いが止まらない）
-  category: hihihi
-  file:
-    - I58nqKO2fak--1734--1760.791.mp3
-    - I58nqKO2fak--2664.296--2689.414.mp3
-  metadata:
-    site: youtube
-    identifier: I58nqKO2fak
-    time:
-      - from: 1734
-        to: 1760.791
-      - from: 2664.296
-        to: 2689.414
-- name: Goodbye!
-  name_l10n:
-    zh: 再见啦！
-    ja: じゃあね！
-  file:
-    - I58nqKO2fak--3639.59--3640.496.mp3
-    - "-cWxSCiPKk4--3606.307--3613.59.mp3"
-  category: cute
-  metadata:
-    site: youtube
-    identifier:
-      - I58nqKO2fak
-      - "-cWxSCiPKk4"
-    time:
-      - from: 3639.59
-        to: 3640.496
-      - from: 3606.307
-        to: 3613.59
-- name: '"Thanks" Repeater'
-  name_l10n:
-    zh: 无情的道谢机器
-    ja: '"ありがとう" 複読機'
-  file: "-cWxSCiPKk4--463.5--469.136.mp3"
-  metadata:
-    site: youtube
-    identifier: "-cWxSCiPKk4"
-    time:
-      from: 463.5
-      to: 469.136
+      - from: 920
+        to: 923.736
+      - from: 1721.885
+        to: 1730
+      - from: 1931.822
+        to: 1947.044
 - name: "ABA,ABA,ABA,ABA (STAMMERING)"
   name_l10n:
     zh: 阿巴阿巴阿巴阿巴
     ja: アバアバアバアバ
-  category: cute
+  category: 02-cute
   file:
     - "-cWxSCiPKk4--504.787--506.085.mp3"
-    - 53MFzm-7mgQ--1011.387--1016.376.mp3
   metadata:
     site: youtube
     identifier:
       - "-cWxSCiPKk4"
-      - 53MFzm-7mgQ
     time:
       - from: 504.787
         to: 506.085
-      - from: 1011.387
-        to: 1016.376
-- name: (various nonsense)
-  name_l10n:
-    zh: （各种口胡）
-    ja: （いろいろなでたらめ）
-  file:
-    - "-cWxSCiPKk4--1445.142--1448.413.mp3"
-    - "-cWxSCiPKk4--1625.381--1632.897.mp3"
-    - "-cWxSCiPKk4--2326.832--2332.343.mp3"
-  category: cute
-  metadata:
-    site: youtube
-    identifier: "-cWxSCiPKk4"
-    time:
-      - from: 1445.142
-        to: 1448.413
-      - from: 1625.381
-        to: 1632.897
-      - from: 2326.832
-        to: 2332.343
 - name: Ha... (soft)
   name_l10n:
     zh: 哈。。。（软软星）
     ja: は。。。（ふわふわ）
-  category: cute
+  category: 02-cute
   file:
     - "-cWxSCiPKk4--1720.262--1722.mp3"
     - 53MFzm-7mgQ--1353.336--1355.511.mp3
@@ -1307,138 +1243,15 @@
         to: 1551.858
       - from: 3684.363
         to: 3686.095
-- name: '"Hat-trick"'
+- name: Aiiiiiiiiiiiiiii
   name_l10n:
-    zh: 帽 子 戏 法
-    ja: '"ハットトリック"'
-  file: "-cWxSCiPKk4--2812.32--2817.835.mp3"
-  category: hihihi
-  metadata:
-    site: youtube
-    identifier: "-cWxSCiPKk4"
-    time:
-      from: 2812.32
-      to: 2817.835
-- name: "Junk computer, let's count your sins in detail!"
-  name_l10n:
-    zh: 杂鱼臭电脑，来细数你的罪恶吧！
-    ja: クソ雑魚パソコン、君の罪を数えろ！
-  file: RXIVBFiuZcA--307.807--323.08.mp3
-  metadata:
-    site: youtube
-    identifier: RXIVBFiuZcA
-    other_sources:
-      - site: bilibili
-        identifier: av87674746
-    time:
-      from: 307.807
-      to: 323.08
-- name: Burn it!
-  name_l10n:
-    zh: 燃烧吧！
-    ja: 燃えろ！
-  file:
-    - onemachi-burn-it-1.mp3
-    - onemachi-burn-it-2.mp3
-    - onemachi-burn-it-3.mp3
+    zh: Aiiiiiiiiiiiiiii
+    ja: Aiiiiiiiiiiiiiii
+  category: 02-cute
+  file: Aiiiiiiiiiiiiiii.mp3
   metadata:
     site: bilibili
-    identifier: av87674746
-    other_sources:
-      - site: youtube
-        identifier: RXIVBFiuZcA
-    time:
-      from: 398.3
-      to: 399.2
-- name: Na Na Na Na~~~
-  name_l10n:
-    zh: 呐 呐 呐 呐~~~
-    ja: な な な な~~~
-  file:
-    - 53MFzm-7mgQ--151.396--154.31.mp3
-    - 53MFzm-7mgQ--445.244--450.mp3
-  category:
-    - cute
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      - from: 151.396
-        to: 154.31
-      - from: 445.244
-        to: 450
-- name: Today Sui-chan Wa~~~ Na~~~ is still kawaii!
-  name_l10n:
-    zh: 彗酱哇~~~ 呐~~~ 今天也很卡哇伊！
-    ja: すいちゃんは~~~、な~~~、今日もかわいい〜！
-  file: 53MFzm-7mgQ--167.5--179.838.mp3
-  category:
-    - kawaii
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      from: 167.5
-      to: 179.838
-- name: Rage Value MAX
-  name_l10n:
-    zh: 怒气值MAX
-    ja: 怒りの値MAX
-  file: 53MFzm-7mgQ--589.567--592.261.mp3
-  category:
-    - psycho
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      from: 589.567
-      to: 592.261
-- name: Stop~~~StopStop!!!
-  name_l10n:
-    zh: Stop~~~StopStop!!!
-    ja: Stop~~~StopStop!!!
-  file: 53MFzm-7mgQ--596.186--602.mp3
-  category:
-    - cute
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      from: 596.186
-      to: 602
-- name: Ah ~ ~ ~ It hurts!
-  name_l10n:
-    zh: 啊~~~疼疼疼！
-    ja: あ～～痛くて痛いです!
-  file:
-    - 53MFzm-7mgQ--920--923.736.mp3
-    - 53MFzm-7mgQ--1721.885--1730.mp3
-    - 53MFzm-7mgQ--1931.822--1947.044.mp3
-  category:
-    - cute
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      - from: 920
-        to: 923.736
-      - from: 1721.885
-        to: 1730
-      - from: 1931.822
-        to: 1947.044
-- name: Don't like that!(Being Cute)
-  name_l10n:
-    zh: 不要不要不要不要~~~（撒娇）
-    ja: やだやだやだやだ~~~（甘える）
-  file: 53MFzm-7mgQ--2409.323--2419.087.mp3
-  category:
-    - cute
-  metadata:
-    site: youtube
-    identifier: 53MFzm-7mgQ
-    time:
-      from: 2409.323
-      to: 2419.087
+    identifier: av95334801
 - name: Ah↘ Ah→ Ah↗ ！
   name_l10n:
     zh: 啊↘ 啊→ 啊↗ ！
@@ -1447,8 +1260,7 @@
     - 53MFzm-7mgQ--2526--2533.463.mp3
     - 53MFzm-7mgQ--3051.854--3054.977.mp3
     - 53MFzm-7mgQ--4570--4576.596.mp3
-  category:
-    - cute
+  category: 02-cute
   metadata:
     site: youtube
     identifier: 53MFzm-7mgQ
@@ -1459,82 +1271,277 @@
         to: 3054.977
       - from: 4570
         to: 4576.596
-- name: DODODODODO!
+- name: PIKAAAAAAAAAAAAAAAAA~
   name_l10n:
-    zh: DODODODODO!
-    ja: DODODODODO!
-  file: 53MFzm-7mgQ--2629.909--2631.692.mp3
-  category:
-    - cute
+    zh: 皮卡卡卡卡卡卡卡~
+    ja: ピカチュ~
+  file: "-cWxSCiPKk4--1616.884--1618.346.mp3"
+  category: 02-cute
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier: "-cWxSCiPKk4"
     time:
-      from: 2629.909
-      to: 2631.692
-- name: Howl~~~
+      from: 1616.884
+      to: 1618.346
+- name: Pikachu~
   name_l10n:
-    zh: 嗷呜~~~
-    ja: ウォ~~~
-  file: 53MFzm-7mgQ--3356.25--3368.646.mp3
-  category:
-    - cute
+    zh: 皮卡丘~
+    ja: ピカチュウ~
+  category: 02-cute
+  file:
+    - H1D_xTnXvSE--1021.74--1022.7.mp3
+    - "-cWxSCiPKk4--1511.069--1512.099.mp3"
+    - "-cWxSCiPKk4--1569.075--1570.109.mp3"
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier:
+      - H1D_xTnXvSE
+      - "-cWxSCiPKk4"
     time:
-      from: 3356.25
-      to: 3368.646
-- name: Mom~~~ (World-class beautiful sound)
+      - from: 1021.74
+        to: 1022.7
+      - from: 1511.069
+        to: 1512.099
+      - from: 1569.075
+        to: 1570.109
+- name: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
   name_l10n:
-    zh: 妈妈~~~（世界级美声）
-    ja: ママ~~~（世界に誇る美音）
-  file: 53MFzm-7mgQ--3534.881--3543.159.mp3
-  category:
-    - psycho
+    zh: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
+    ja: PienPienPien↓...PienPien↓↓...Pien↓↓↓....
+  category: 02-cute
+  file: clXusKnSBY0--1037.399--1042.938.mp3
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier: clXusKnSBY0
     time:
-      from: 3534.881
-      to: 3543.159
-- name: The song of 'Miss'
+      from: 1037.399
+      to: 1042.938
+- name: Yoooooo~
   name_l10n:
-    zh: "'Miss'之歌"
-    ja: "'Miss'の歌"
-  file: 53MFzm-7mgQ--3924.105--3950.mp3
+    zh: Yoooooo~
+    ja: Yoooooo~
+  category: 02-cute
+  file: clXusKnSBY0--110.243--111.749.mp3
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier: clXusKnSBY0
     time:
-      from: 3924.105
-      to: 3950
-- name: (Being Cute)
+      from: 110.243
+      to: 111.749
+- name: "Woof Woof! "
   name_l10n:
-    zh: （撒娇）
-    ja: （甘える）
-  file: 53MFzm-7mgQ--4413.854--4428.528.mp3
-  category:
-    - cute
+    zh: 汪汪！
+    ja: わんわん!
+  category: 02-cute
+  file: FY-WtN7c7tI--380.5--381.174.mp3
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier: FY-WtN7c7tI
     time:
-      from: 4413.854
-      to: 4428.528
-- name: Boo...（Being Cute）
+      from: 380.5
+      to: 381.174
+- name: Yoyoyo~
+  category: 02-cute
+  file: yoyoyo.mp3
+- name: Confession (Only Suisei)
   name_l10n:
-    zh: 呜。。。（撒娇）
-    ja: うう。。。（甘える）
-  file: 53MFzm-7mgQ--4902--4903.758.mp3
-  category:
-    - cute
+    zh: 彗酱的表白
+    ja: 彗星の告白
+  category: 02-cute
+  file: tsbLvsv2Sao--3391.38--3419.6--edited.mp3
   metadata:
     site: youtube
-    identifier: 53MFzm-7mgQ
+    identifier: tsbLvsv2Sao
     time:
-      from: 4902
-      to: 4903.758
+      from: 3391.38
+      to: 3419.6
+- name: (change countenance as fast as light)
+  name_l10n:
+    zh: （光 速 变 脸）
+    ja: （光のように早く顔色が変わりました）
+  file: Qpc1ysd9S9c--2780.652--2789.727.mp3
+  category: 02-cute
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 2780.652
+      to: 2789.727
+- name: Chu~...Chu~~~
+  name_l10n:
+    zh: 啾~...啾~~~
+    ja: ちゅん~...ちゅん~~~
+  category: 02-cute
+  file: Qpc1ysd9S9c--1869.893--1875.804.mp3
+  metadata:
+    site: youtube
+    identifier: Qpc1ysd9S9c
+    time:
+      from: 1869.893
+      to: 1875.804
+- name: "Subaru-chan, Miko-chan, kawaii!"
+  name_l10n:
+    zh: Subaru酱！Miko酱！可爱！
+    ja: スバルちゃん！みこちゃん！かわいい！
+  category: 02-cute
+  file: QiQtiNK7jWw--1051.3--1055.8.mp3
+  metadata:
+    site: youtube
+    identifier: QiQtiNK7jWw
+    time:
+      from: 1051.3
+      to: 1055.8
+- name: Wuaaaaaaaa...
+  name_l10n:
+    zh: Wuaaaaaaaa...
+    ja: Wuaaaaaaaa...
+  category: 02-cute
+  file: lwszUzu_ARc--5655--5660.mp3
+  metadata:
+    site: youtube
+    identifier: lwszUzu_ARc
+    time:
+      from: 5655.012
+      to: 5660.261
+- name: Big sister~
+  name_l10n:
+    zh: 姐姐，姐姐～
+    ja: お姉ちゃん，お姉ちゃん～
+  file: j1Rrg4BnBjs--2774--2778.5.mp3
+  type: normal
+  category: 02-cute
+  metadata:
+    site: youtube
+    identifier: j1Rrg4BnBjs
+    time:
+      from: 2774
+      to: 2778.5
+- name: Sui-chan made no mistake watamever it was!
+  _comment: |
+    For translators: this is a meme of Watame, see youtu.be/h6IwhTuKSRk
+  name_l10n:
+    zh: wtm才没有错呢！
+    ja: すいちゃんはわるくないよねぇ...
+  file: IRr6aAS3zLQ--2596.4--2599.mp3
+  category: 02-cute
+  metadata:
+    site: youtube
+    identifier: IRr6aAS3zLQ
+    time:
+      from: 2596.4
+      to: 2599
+- name: "Miko-chan pink! Pink! Pin-pppppppppppppp"
+  name_l10n:
+    zh: "Miko 亲粉色 粉色 米分分分分分分分分分分分分分分"
+    ja: "みこち ピンク ピンク Pin-pppppppppppppp"
+  category: 02-cute
+  file: huhW3wLOFsA-mikopink.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: "hoi, hoi, dokkoisho!"
+  name_l10n:
+    zh: hoi！hoi！六魁首！
+    ja: hoi！hoi！ドッコイショ！
+  category: 02-cute
+  file: H1D_xTnXvSE--1577.2--1582.9.mp3
+  metadata:
+    site: youtube
+    identifier: H1D_xTnXvSE
+    time:
+      from: 1577.2
+      to: 1582.9
+- name: PIKAAAAACHUUUUUUUUUUUUUUUUU~
+  name_l10n:
+    zh: 皮卡卡卡卡丘丘丘丘丘丘丘丘丘丘丘丘~
+    ja: ピカチュウウウウウウウウウウ~
+  category: 02-cute
+  file: H1D_xTnXvSE--1212--1216.mp3
+  metadata:
+    site: youtube
+    identifier: H1D_xTnXvSE
+    time:
+      from: 1212
+      to: 1216
+- name: I love you (choco) chu~
+  name_l10n:
+    zh: 最喜欢了 啾~
+    ja: 大好き ちゅん~
+  category: 02-cute
+  file: FY-WtN7c7tI--1312.648--1314.171.mp3
+  metadata:
+    site: youtube
+    identifier: FY-WtN7c7tI
+    time:
+      from: 1312.648
+      to: 1314.171
+- name: I feel embarrassed~
+  name_l10n:
+    zh: 好害羞~
+    ja: 恥ずかしい~
+  category: 02-cute
+  file: FY-WtN7c7tI--746.285--749.923.mp3
+  metadata:
+    site: youtube
+    identifier: FY-WtN7c7tI
+    time:
+      from: 746.285
+      to: 749.923
+- name: Punai Punai!
+  name_l10n:
+    zh: Punai Punai!
+    ja: プナイプナイ!
+  category: 02-cute
+  file: boRajPeaJwA--2020--2022.mp3
+  metadata:
+    site: youtube
+    identifier: boRajPeaJwA
+    time:
+      from: 2020.581
+      to: 2022.649
+- name: Nyaaaaa~
+  name_l10n:
+    zh: Nyaaaaa~
+    ja: Nyaaaaa~
+  category: 02-cute
+  file: boRajPeaJwA--2745--2752.mp3
+  metadata:
+    site: youtube
+    identifier: boRajPeaJwA
+    time:
+      from: 2745.158
+      to: 2752.189
+- name: (various nonsense)
+  name_l10n:
+    zh: （各种口胡）
+    ja: （いろいろなでたらめ）
+  file:
+    - "-cWxSCiPKk4--1445.142--1448.413.mp3"
+    - "-cWxSCiPKk4--1625.381--1632.897.mp3"
+    - "-cWxSCiPKk4--2326.832--2332.343.mp3"
+  category: 02-cute
+  metadata:
+    site: youtube
+    identifier: "-cWxSCiPKk4"
+    time:
+      - from: 1445.142
+        to: 1448.413
+      - from: 1625.381
+        to: 1632.897
+      - from: 2326.832
+        to: 2332.343
+- name: "If time permits, ♡ger♡her♡done♡"
+  name_l10n:
+    ja: ♡や♡じゃ♡て♡
+    zh: 能干掉的话♡就♡干♡掉♡
+  category: 02-cute
+  file: av96075539--509.4--511.mp3
+  metadata:
+    site: bilibili
+    identifier: av96075539
+    time:
+      from: 509.4
+      to: 511
 - name: Encrypted message
   name_l10n:
     zh: 加 密 通 话
@@ -1543,8 +1550,7 @@
     - 53MFzm-7mgQ--4913.844--4921.244.mp3
     - 53MFzm-7mgQ--5021.289--5033.782.mp3
     - 53MFzm-7mgQ--5421.453--5426.mp3
-  category:
-    - cute
+  category: 02-cute
   metadata:
     site: youtube
     identifier: 53MFzm-7mgQ
@@ -1555,131 +1561,141 @@
         to: 5033.782
       - from: 5421.453
         to: 5426
-- name: Bobobo~
-  category:
-    - cute
-  file: bobobo.mp3
-- name: Yoyoyo~
-  category:
-    - cute
-  file: yoyoyo.mp3
-- name: "(Current in game: Fall Guys)"
+- name: DODODODODO!
   name_l10n:
-    zh: （糖豆人游玩中）
-  file: keyboard-sounds-on-fall-guys.mp3
+    zh: DODODODODO!
+    ja: DODODODODO!
+  file: 53MFzm-7mgQ--2629.909--2631.692.mp3
+  category: 02-cute
+  metadata:
+    site: youtube
+    identifier: 53MFzm-7mgQ
+    time:
+      from: 2629.909
+      to: 2631.692
+- name: Ei Nya
+  name_l10n:
+    zh: Ei Nya
+    ja: Ei Nya
+  category: 02-cute
+  file: 2TRd-2q9JYA--934.169--934.645.mp3
+  metadata:
+    site: youtube
+    identifier: 2TRd-2q9JYA
+    time:
+      from: 934.169
+      to: 934.645
+- name: (Fall Guys upsets Suisei)
+  file:
+    - fall-bad-guys-1.mp3
+    - fall-bad-guys-2.mp3
+- name: (Talk Nonsense)
+  name_l10n:
+    zh: （胡言乱语）
+    ja: （でたらめ）
+  file:
+    - 2TRd-2q9JYA--3634.903--3638.6842.mp3
+    - boRajPeaJwA--1564--1577.mp3
+    - pLUf75CZg38--695.664--722.762.mp3
+    - pLUf75CZg38--1913.155--1918.837.mp3
+    - pLUf75CZg38--1957.304--1962.699.mp3
+    - pLUf75CZg38--2118.064--2136.733.mp3
+    - pLUf75CZg38--2761.676--2776.016.mp3
+    - pLUf75CZg38--3715--3724.275.mp3
+    - 0WsDVU_W6QU--939.717--947.618.mp3
+    - 0WsDVU_W6QU--2202.963--2207.233.mp3
+    - I58nqKO2fak--226.274--229.927.mp3
+  metadata:
+    site: youtube
+    identifier:
+      - 2TRd-2q9JYA
+      - boRajPeaJwA
+      - pLUf75CZg38
+      - 0WsDVU_W6QU
+      - I58nqKO2fak
+    time:
+      - from: 3634.903
+        to: 3638.684
+      - from: 1564.709
+        to: 1577.448
+      - from: 695.664
+        to: 722.762
+      - from: 1913.155
+        to: 1918.837
+      - from: 1957.304
+        to: 1962.699
+      - from: 2118.064
+        to: 2136.733
+      - from: 2761.676
+        to: 2776.016
+      - from: 3715
+        to: 3724.275
+      - from: 939.717
+        to: 947.618
+      - from: 2202.963
+        to: 2207.233
+      - from: 226.274
+        to: 229.927
 - name: "No sex harassment, hentai!"
   name_l10n:
     ja: セクハラ反対、セクハラ変態！
     zh: 性骚扰反对，性骚扰变态！
   file: against-sex-harassment.mp3
-- name: Don't catch me!
-  category:
-    - cute
-  name_l10n:
-    ja: 掴むなよ！
-    zh: 不要抓我啊！
-  file: dont-catch-me.mp3
-- name: "Farewell, farewell"
-  name_l10n:
-    ja: さよなら、さよなら
-    zh: 再见~再见~
-  file: farewell-farewell.mp3
-- name: (Fall Guys upsets Suisei)
-  category:
-    - cute
-  file:
-    - fall-bad-guys-1.mp3
-    - fall-bad-guys-2.mp3
-- name: "If time permits, ♡ger♡her♡done♡"
-  name_l10n:
-    ja: ♡や♡じゃ♡て♡
-    zh: 能干掉的话♡就♡干♡掉♡
-  category:
-    - cute
-  file: av96075539--509.4--511.mp3
-  metadata:
-    site: bilibili
-    identifier: av96075539
-    time:
-      from: 509.4
-      to: 511
-- name: Zett!
-  file: zett.mp3
-  category:
-    - cute
-  metadata:
-    site: bilibili
-    _comment: Bilibili-only livestream
-- name: No problem at all!
-  name_l10n:
-    zh: 完全没有问题！
-  file: No-problem-at-all.mp3
-  metadata:
-    site: bilibili
-    _comment: Bilibili-only livestream
-- name: Go away! Go away! Go away!
-  name_l10n:
-    zh: 碍事碍事碍事！
-  file: Annoying-go-away.mp3
-  metadata:
-    site: bilibili
-    _comment: Bilibili-only livestream
-- name: I reject my humanity!
-  name_l10n:
-    zh: 我不做人了！
-  file: i-reject-my-humanity.mp3
-- name: Chuchuchu~
-  category:
-    - cute
-  file: 20201128-chuchuchu.mp3
-- name: Hahaha~
-  category:
-    - cute
-  file: 20201128-hahaha.mp3
-- name: Haibibibi~
-  category:
-    - cute
-  file: 20201128-haibibibi.mp3
-- name: Kaha
-  category:
-    - cute
-  file: 20201128-kaha.mp3
-- name: Fxxk fxxk
-  category:
-    - cute
-  file: 20201128-random.mp3
-- name: Ushishishishi
-  category:
-    - cute
-  file:
-    - 20201128-ushishishishi-1.mp3
-    - 20201128-ushishishishi-2.mp3
 - name: Too expensive HORA
   name_l10n:
     zh: 太贵了啊 HORA！
-  category:
-    - cute
   file:
     - 20201128-too-expensive-hora.mp3
-- name: Miko-chan!
+- name: LOL
   name_l10n:
-    zh: Miko亲！
-    ja: みこちゃん！
-  category:
-    - cute
-  file: QiQtiNK7jWw--1020.1--1028.4.mp3
+    zh: （笑）
+    ja: （笑）
+  file: BjuYqoY_CxI--1842.9--1953.36.mp3
   metadata:
     site: youtube
-    identifier: QiQtiNK7jWw
+    identifier: BjuYqoY_CxI
     time:
-      from: 1020.1
-      to: 1028.4
+      from: 1842.9
+      to: 1953.36
+- name: Help Me!!!(Volume attention!)
+  name_l10n:
+    zh: 救命啊！！！（音量注意!）
+    ja: 助けて！！！（ボリュームノート!）
+  file: boRajPeaJwA--1583--1589.mp3
+  metadata:
+    site: youtube
+    identifier: boRajPeaJwA
+    time:
+      from: 1583.648
+      to: 1589.874
+- name: "It's thiz!"
+  name_l10n:
+    zh: "似这个啊这个！"
+    ja: "これだよ！これ！"
+  file: huhW3wLOFsA-koredayokore.mp3
+  metadata:
+    site: youtube
+    identifier: huhW3wLOFsA
+- name: Zett!
+  file: zett.mp3
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
+- name: Confession (Roboco and Suisei)
+  name_l10n:
+    zh: 萝卜子与彗酱的表白
+    ja: ロボ子と彗星の告白
+  file: tsbLvsv2Sao--3391.38--3419.6.mp3
+  metadata:
+    site: youtube
+    identifier: tsbLvsv2Sao
+    time:
+      from: 3391.38
+      to: 3419.6
 - name: Subaru-chan!
   name_l10n:
     zh: Subaru酱！
     ja: スバルちゃん！
-  category:
-    - cute
   file: QiQtiNK7jWw--1038.3--1048.mp3
   metadata:
     site: youtube
@@ -1687,54 +1703,99 @@
     time:
       from: 1038.3
       to: 1048
-- name: "Subaru-chan, Miko-chan, kawaii!"
+- name: No!!!... (deep breath)
   name_l10n:
-    zh: Subaru酱！Miko酱！可爱！
-    ja: スバルちゃん！みこちゃん！かわいい！
-  category:
-    - cute
-  file: QiQtiNK7jWw--1051.3--1055.8.mp3
+    zh: 这不妙啊！！！...（深呼吸）
+    ja: オーケーじゃなーい！！！...（息をする）
+  file: pLUf75CZg38--634.594--648.mp3
   metadata:
     site: youtube
-    identifier: QiQtiNK7jWw
+    identifier: pLUf75CZg38
     time:
-      from: 1051.3
-      to: 1055.8
-- name: "AOkay!"
+      from: 634.594
+      to: 648
+- name: "Baby, baby, baby!"
   name_l10n:
-    zh: "啊哦可欸！"
-    ja: "あおけ！"
-  category:
-    - cute
-  file: huhW3wLOFsA-aokay.mp3
+    zh: 宝贝，宝贝，宝贝！
+    ja: 赤ちゃん，赤ちゃん，赤ちゃん！
+  file: pLUf75CZg38--567.08--574.946.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Thank you!"
+    identifier: pLUf75CZg38
+    time:
+      from: 567.08
+      to: 574.946
+- name: "Baby, baby, baby!"
   name_l10n:
-    zh: "3Q！"
-    ja: "Thank you!"
-  category:
-  file: huhW3wLOFsA-thankyou.mp3
+    zh: 宝贝，宝贝，宝贝！
+    ja: 赤ちゃん，赤ちゃん，赤ちゃん！
+  file: pLUf75CZg38--567.08--574.946.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Get quickly or I'm gonna be angry!"
+    identifier: pLUf75CZg38
+    time:
+      from: 567.08
+      to: 574.946
+- name: I'm not invited!!
+  _comment: |
+    zh: https://t.bilibili.com/395499860137488715?tab=2
+    ja: https://twitter.com/suisei_hosimati/status/1267046799421792256
   name_l10n:
-    zh: "快点！我要生气辣！"
-    ja: "早く！いらるよ！"
-  category:
-    - cute
-  file: huhW3wLOFsA-hayaku.mp3
+    zh: 咋不带我玩儿呢！！
+    ja: 私誘われていないんだけど！！
+  file: PJf3XZ636-0--66--68.05.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "It's thiz!"
+    identifier: PJf3XZ636-0
+    time:
+      from: 66
+      to: 68.05
+- name: No problem at all!
   name_l10n:
-    zh: "似这个啊这个！"
-    ja: "これだよ！これ！"
-  category:
-  file: huhW3wLOFsA-koredayokore.mp3
+    zh: 完全没有问题！
+  file: No-problem-at-all.mp3
+  metadata:
+    site: bilibili
+    _comment: Bilibili-only livestream
+- name: Dance Mama
+  name_l10n:
+    zh: Dance Mama
+    ja: Dance Mama
+  file: lwszUzu_ARc--8172--8177.mp3
+  metadata:
+    site: youtube
+    identifier: lwszUzu_ARc
+    time:
+      from: 8172.947
+      to: 8177.934
+- name: Get away!
+  name_l10n:
+    zh: 住手啊！
+    ja: やめる！
+  file: lwszUzu_ARc--2498--2502.mp3
+  metadata:
+    site: youtube
+    identifier: lwszUzu_ARc
+    time:
+      from: 2498.851
+      to: 2502.772
+- name: I'm not calling you!
+  name_l10n:
+    zh: 没叫你啊！
+    ja: 呼んで無いですけど！
+  file: j1Rrg4BnBjs--2781--2784.5.mp3
+  type: normal
+  metadata:
+    site: youtube
+    identifier: j1Rrg4BnBjs
+    time:
+      from: 2781
+      to: 2784.5
+- name: "Polite thieves"
+  name_l10n:
+    zh: "有礼貌的小偷"
+    ja: "丁寧な泥棒"
+  file: huhW3wLOFsA-politethieves.mp3
   metadata:
     site: youtube
     identifier: huhW3wLOFsA
@@ -1742,114 +1803,119 @@
   name_l10n:
     zh: "你这混蛋，喂喂喂，你想打倒我嘛？"
     ja: "おめぇ、てめぇ、おいおいおい、やられてのか？"
-  category:
   file: huhW3wLOFsA-ome.mp3
   metadata:
     site: youtube
     identifier: huhW3wLOFsA
-- name: "KILL IT!! GET THAT KILLED!"
+- name: (Can't stop laughing)
   name_l10n:
-    zh: "杀了这个家伙！！"
-    ja: "殺せ！！そいつ！"
-  category:
-  file: huhW3wLOFsA-korose.mp3
+    zh: （笑个不停）
+    ja: （笑いが止まらない）
+  category: 04-hihihi
+  file:
+    - I58nqKO2fak--1734--1760.791.mp3
+    - I58nqKO2fak--2664.296--2689.414.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Let's go... NOOOOO!"
+    identifier: I58nqKO2fak
+    time:
+      - from: 1734
+        to: 1760.791
+      - from: 2664.296
+        to: 2689.414
+- name: LOL
   name_l10n:
-    zh: "走吧...不要啊啊啊啊！"
-    ja: "行きましょう...やだぁぁぁぁぁぁぁ！"
-  category:
-  file: huhW3wLOFsA-yadaaa.mp3
+    zh: （狂笑）
+    ja: （大笑いする）
+  category: 04-hihihi
+  file: DGjBouw_yeI--2561.09--2677.55.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Humanoid Trumpet"
+    identifier: DGjBouw_yeI
+    time:
+      from: 2561.09
+      to: 2677.55
+- name: Good Morning~(ja_JP)
   name_l10n:
-    zh: "人 形 喇 叭"
-    ja: "バババババ～"
-  category:
-    - cute
-  file: huhW3wLOFsA-bababa.mp3
+    zh: 早上好～
+    ja: おはようございます～
+  category: 08-say-hello
+  file:
+    - lWviugwupLE_1_Good_Morning~.mp3
+    - lWviugwupLE_2_Good_Morning~.mp3
+    - lWviugwupLE_3_Good_Morning~.mp3
+    - lWviugwupLE_4_Good_Morning~.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Get out! Ora!"
+    identifier: lWviugwupLE
+- name: Very Nice~
   name_l10n:
-    zh: "快点出来！哦拉！"
-    ja: "出ていけ！おら！"
-  category:
-    - cute
-  file: huhW3wLOFsA-deteike.mp3
+    zh: Very Nice~
+    ja: Very Nice~
+  category: 11-sui-nglish
+  file:
+    - lWviugwupLE_15_Very_nice.mp3
+    - lWviugwupLE_14_Very_nice.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "We are Hololive!"
+    identifier: lWviugwupLE
+- name: Hello~
   name_l10n:
-    zh: "我们就是 Hololive！"
-    ja: "こちとらホロライブぞ！"
-  category:
-  file: huhW3wLOFsA-kochitora.mp3
+    zh: Hello~
+    ja: Hello~
+  category: 11-sui-nglish
+  file: lWviugwupLE_13_Hello.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Polite thieves"
+    identifier: lWviugwupLE
+- name: wink~☆
   name_l10n:
-    zh: "有礼貌的小偷"
-    ja: "丁寧な泥棒"
-  category:
-  file: huhW3wLOFsA-politethieves.mp3
+    zh: wink~☆
+    ja: バチこーん☆
+  category: 02-cute
+  file:
+    - hOmBHTrIrg8_ばちこーん☆1.mp3
+    - hOmBHTrIrg8_ばちこーん☆2.mp3
+    - lWviugwupLE_12_ばちこーん☆3.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Drinking wine"
+    identifier:
+      - lWviugwupLE
+      - hOmBHTrIrg8
+- name: Sui-chan's still cute today! (Sleepy)
   name_l10n:
-    zh: "喝红酒"
-    ja: "ワインを飲みます"
-  category:
-  file: huhW3wLOFsA-wine.mp3
+    zh: 彗酱今天也很卡哇伊(困倦)
+    ja: すいちゃんは～今日もかわいい！！(眠い)
+  category: 01-kawaii
+  file: lWviugwupLE_10_Suichan_wa_kyoumo_kawaii(sleeping).mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Thank you!"
+    identifier:
+      - lWviugwupLE
+- name: Good Morning~
   name_l10n:
-    zh: "谢谢！"
-    ja: "ありがとうございます！"
-  category:
-  file: huhW3wLOFsA-arigato.mp3
+    zh: Good Morning~
+    ja: Good Morning~
+  category: 11-sui-nglish
+  file: lWviugwupLE_6_Good_Morning!.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: "Miko-chan pink! Pink! Pin-pppppppppppppp"
+    identifier: lWviugwupLE
+- name: Yeah~
   name_l10n:
-    zh: "Miko 亲粉色 粉色 米分分分分分分分分分分分分分分"
-    ja: "みこち ピンク ピンク Pin-pppppppppppppp"
-  category:
-    - cute
-  file: huhW3wLOFsA-mikopink.mp3
+    zh: Yeah~
+    ja: Yeah~
+  category: 11-sui-nglish
+  file: lWviugwupLE_7_Yeah~.mp3
   metadata:
     site: youtube
-    identifier: huhW3wLOFsA
-- name: Today Sui-chan is still kawaii! (Handsome)
+    identifier: lWviugwupLE
+- name: i'm_sleeping
   name_l10n:
-    zh: "彗酱今天也很卡哇伊～！（池面音版本）"
-    ja: "すいちゃんは、今日もかわいい（イケボバージョン）"
-  category:
-    - kawaii
-  file: nUHYdkbbgdQ-kawaii.mp3
+    zh: i'm_sleeping
+    ja: i'm_sleeping
+  category: 11-sui-nglish
+  file: lWviugwupLE_8_i'm_sleeping.mp3
   metadata:
     site: youtube
-    identifier: nUHYdkbbgdQ
-- name: Hi Honey!
-  name_l10n:
-    zh: "Hi Honey!"
-    ja: "Hi Honey!"
-  category:
-    - new
-    - sui_english
-  file: MvaMY_92T-c--3931--3933.mp3
-  metadata:
-    site: youtube
-    identifier: MvaMY_92T-c
-
+    identifier: lWviugwupLE
