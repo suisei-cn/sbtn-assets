@@ -1864,7 +1864,9 @@
     zh: Hello~
     ja: Hello~
   category: 11-sui-nglish
-  file: lWviugwupLE_13_Hello.mp3
+  file: 
+     - lWviugwupLE_13_Hello.mp3
+     - lWviugwupLE_11_Hello.mp3
   metadata:
     site: youtube
     identifier: lWviugwupLE
@@ -1916,6 +1918,42 @@
     ja: i'm_sleeping
   category: 11-sui-nglish
   file: lWviugwupLE_8_i'm_sleeping.mp3
+  metadata:
+    site: youtube
+    identifier: lWviugwupLE
+- name: Nooooooooo!
+  name_l10n:
+    zh: Nooooooooo!
+    ja: Nooooooooo!
+  category: 11-sui-nglish
+  file: lWviugwupLE_5_Nooooooooo.mp3
+  metadata:
+    site: youtube
+    identifier: lWviugwupLE
+- name: Otsumachi~
+  name_l10n:
+    zh: 辛苦了星街~
+    ja: おつまち～
+  category: 08-say-hello
+  file: Vbv1c5CQGU4_1_Otsumachi.mp3
+  metadata:
+    site: youtube
+    identifier: Vbv1c5CQGU4
+- name: You f**king bastard
+  name_l10n:
+    zh: 你丫的!
+    ja: てめぇ!
+  category: 06-angry
+  file: lWviugwupLE_16_teme.mp3
+  metadata:
+    site: youtube
+    identifier: lWviugwupLE
+- name: Aaaaaaaaaaa
+  name_l10n:
+    zh: 啊啊啊啊啊啊啊啊啊啊啊
+    ja: あああああああああ
+  category: 06-angry
+  file: lWviugwupLE_9_Aaaaaaaaaaa.mp3
   metadata:
     site: youtube
     identifier: lWviugwupLE
