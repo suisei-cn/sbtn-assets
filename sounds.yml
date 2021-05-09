@@ -1957,3 +1957,8 @@
   metadata:
     site: youtube
     identifier: lWviugwupLE
+- name: Go and buy the yakisoba pan for me!
+  name_l10n:
+    zh: 快去给老娘买炒面面包啊
+    ja: 俺を焼きそばパン買ってこよう
+  file: the-yakisoba-pan.mp3
