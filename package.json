@@ -6,6 +6,7 @@
   "author": "Outvi V <oss@outv.im>",
   "scripts": {
     "test:sound": "utils/sound.js",
+    "test:files": "bash utils/files.sh",
     "test:bitrate": "bash utils/bitrate.sh"
   },
   "dependencies": {

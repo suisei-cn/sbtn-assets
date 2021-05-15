@@ -15,9 +15,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Test for sound file existence 👓
+      - name: Basic tests for sound files 👓
         run: |
           yarn
+          yarn test:files
           yarn test:sound
 
       - name: Install and Build 🔧

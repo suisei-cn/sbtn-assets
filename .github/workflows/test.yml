@@ -1,0 +1,49 @@
+name: Check audio status
+
+on: [push, pull_request]
+
+jobs:
+  test-bitrate:
+    if: "(!contains(github.event.commits[0].message, '[skip ci]')) && (!contains(github.event.commits[0].message, '[ci skip]'))"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Install ffmpeg 🔧
+        run: |
+          sudo apt-get update
+          sudo apt-get install ffmpeg
+
+      - name: Test for bitrates 👓
+        run: yarn test:bitrate
+
+  test-sound:
+    if: "(!contains(github.event.commits[0].message, '[skip ci]')) && (!contains(github.event.commits[0].message, '[ci skip]'))"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Test for sound file existence 👓
+        run: |
+          yarn
+          yarn test:sound
+
+  test-files:
+    if: "(!contains(github.event.commits[0].message, '[skip ci]')) && (!contains(github.event.commits[0].message, '[ci skip]'))"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Test for sound file format 👓
+        run: |
+          yarn
+          yarn test:files
