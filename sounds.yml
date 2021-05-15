@@ -1962,3 +1962,15 @@
     zh: 快去给老娘买炒面面包啊
     ja: 俺を焼きそばパン買ってこよう
   file: the-yakisoba-pan.mp3
+- name: Wow~
+  name_l10n:
+    zh: 呜哇～
+    ja: わあ～
+  category: 02-cute
+  file: XOrBxQlsh0w--557.618--558.849.mp3
+  metadata:
+    site: youtube
+    identifier: XOrBxQlsh0w
+    time:
+      from: 557.618
+      to: 558.849
