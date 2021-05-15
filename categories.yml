@@ -1,8 +1,8 @@
 new:
-  name: 2021-03 Button addition
+  name: 2021-05 Button addition
   name_l10n:
-    ja: 2021-03 ボタン追加
-    zh: 2021-03 按钮追加
+    ja: 2021-05 ボタン追加
+    zh: 2021-05 按钮追加
   order: 1
 01-kawaii:
   name: Today Sui-chan is still kawaii!
@@ -19,7 +19,7 @@ new:
 03-psycho:
   name: Psychotic episode
   name_l10n:
-    ja: 精神病がおこる
+    ja: サイコパスが起こる
     zh: 精神病发作
   order: 4
 04-hihihi:
@@ -31,37 +31,37 @@ new:
 05-sui-strumental:
   name: Sui-strumental
   name_l10n:
-    ja: Sui-strumental
+    ja: すい楽器
     zh: 星乐器
   order: 6
 06-angry:
   name: Angry Sui-chan
   name_l10n:
-    ja: Angry Sui-chan
+    ja: 怒っているのすいちゃん
     zh: 生气的彗酱
   order: 7
 07-childish-cutie:
   name: Childish Cutie
   name_l10n:
-    ja: Childish Cutie
+    ja: 甘えるのすいちゃん
     zh: 撒娇的彗酱
   order: 8
 08-say-hello:
   name: Saying Hello
   name_l10n:
-    ja: Saying Hello
+    ja: すいちゃんの挨拶
     zh: 问候的彗酱
   order: 9
 09-sayings:
   name: Sayings
   name_l10n:
-    ja: Sayings
+    ja: 名言集
     zh: 名言
   order: 10
 10-anemachi:
   name: Anemachi
   name_l10n:
-    ja: Anemachi
+    ja: 姉街
     zh: 姐街
   order: 11
 11-sui-nglish:
@@ -73,6 +73,6 @@ new:
 12-sui-lody:
   name: Sui-lody
   name_l10n:
-    ja: Sui-lody
+    ja: すい音楽
     zh: 星概念音乐
   order: 13
