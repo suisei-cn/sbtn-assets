@@ -63,14 +63,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Basic tests for sound files 👓
+      - name: Install and Build 🔧
         run: |
           yarn
-          yarn test:files
-          yarn test:sound
-
-      - name: Install and Build 🔧
-        run: gulp
+          gulp
 
       - name: Install SSH Client 🔑
         uses: webfactory/ssh-agent@v0.4.1
