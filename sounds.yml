@@ -877,11 +877,15 @@
   name_l10n:
     zh: 笨蛋！
     ja: バカ
-  file: lnrFF5TnvYI-baka.mp3
+  file: 
+    - lnrFF5TnvYI-baka.mp3
+    - QCKHyFxVay0_1_baka.mp3
   category: 06-angry
   metadata:
     site: youtube
-    identifier: lnrFF5TnvYI
+    identifier: 
+      - lnrFF5TnvYI
+      - QCKHyFxVay0
 - name: (scold)
   name_l10n:
     zh: （骂）
@@ -1979,15 +1983,6 @@
     zh: 天音彼方的开场白
   category: 08-say-hello
   file: kanata-opening.mp3
-- name: Baka!
-  name_l10n:
-    zh: 笨蛋！
-    ja: バカ！
-  category: 06-angry
-  file: QCKHyFxVay0_1_baka.mp3
-  metadata:
-    site: youtube
-    identifier: QCKHyFxVay0
 - name: Oniichan baka!
   name_l10n:
     zh: 欧尼酱大笨蛋！
