@@ -1864,9 +1864,9 @@
     zh: Hello~
     ja: Hello~
   category: 11-sui-nglish
-  file: 
-     - lWviugwupLE_13_Hello.mp3
-     - lWviugwupLE_11_Hello.mp3
+  file:
+    - lWviugwupLE_13_Hello.mp3
+    - lWviugwupLE_11_Hello.mp3
   metadata:
     site: youtube
     identifier: lWviugwupLE
@@ -1974,3 +1974,35 @@
     time:
       from: 557.618
       to: 558.849
+- name: Kanata Opening
+  name_l10n:
+    zh: 天音彼方的开场白
+  category: 08-say-hello
+  file: kanata-opening.mp3
+- name: Baka!
+  name_l10n:
+    zh: 笨蛋！
+    ja: バカ！
+  category: 06-angry
+  file: QCKHyFxVay0_1_baka.mp3
+  metadata:
+    site: youtube
+    identifier: QCKHyFxVay0
+- name: Oniichan baka!
+  name_l10n:
+    zh: 欧尼酱大笨蛋！
+    ja: お兄ちゃんにばか！
+  category: 06-angry
+  file: QCKHyFxVay0_2_oniichan_baka.mp3
+  metadata:
+    site: youtube
+    identifier: QCKHyFxVay0
+- name: Mock on Valentine Day
+  name_l10n:
+    zh: 情人节的嘲讽
+    ja: バレンタインデーの挑発
+  category: 09-sayings
+  file: QCKHyFxVay0_3_valentine_day_mock.mp3
+  metadata:
+    site: youtube
+    identifier: QCKHyFxVay0
