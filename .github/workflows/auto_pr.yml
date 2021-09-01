@@ -2,7 +2,7 @@ name: "Auto PR for new sound"
 
 on:
   issue_comment:
-    types: [created, edited]
+    types: [created]
 
 jobs:
   push_to_branch_and_create_pr:
