@@ -2001,3 +2001,15 @@
   metadata:
     site: youtube
     identifier: QCKHyFxVay0
+- name: Come on YouTube
+  name_l10n:
+    zh: 加油 YouTube
+    ja: 頑張って YouTube
+  file: i7oDE-5Q-5o--997.5--1009.8.mp3
+  category: new
+  metadata:
+    site: youtube
+    identifier: i7oDE-5Q-5o
+    time:
+      from: 997.5
+      to: 1009.8
