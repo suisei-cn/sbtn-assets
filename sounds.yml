@@ -2013,3 +2013,14 @@
     time:
       from: 997.5
       to: 1009.8
+- name: Sinister smile
+  name_l10n:
+    zh: 奸笑
+    ja: 不敵な笑み
+  file: FiHN9tLEZbE_1_sinister-smile.mp3
+  category: 
+    - 04-hihihi
+    - new
+  metadata:
+    site: youtube
+    identifier: FiHN9tLEZbE
