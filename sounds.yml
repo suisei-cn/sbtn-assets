@@ -2006,7 +2006,6 @@
     zh: 加油 YouTube
     ja: 頑張って YouTube
   file: i7oDE-5Q-5o--997.5--1009.8.mp3
-  category: new
   metadata:
     site: youtube
     identifier: i7oDE-5Q-5o
@@ -2020,7 +2019,74 @@
   file: FiHN9tLEZbE_1_sinister-smile.mp3
   category: 
     - 04-hihihi
-    - new
   metadata:
     site: youtube
     identifier: FiHN9tLEZbE
+- name: Nya-Hello
+  name_l10n:
+    zh: 喵哈喽~
+    ja: にゃっはろー
+  file: 9onIjeIWo24_2_Nya-hallo.mp3
+  category: 
+    - 02-cute
+    - new
+  metadata:
+    site: youtube
+    identifier: 9onIjeIWo24
+- name: Hey hey hey
+  name_l10n:
+    zh: 喂喂~
+    ja: おいおい！
+  file: 9onIjeIWo24_1_Hey_hey_hey.mp3
+  category: 
+    - 06-angry
+    - new
+  metadata:
+    site: youtube
+    identifier: 9onIjeIWo24
+- name: Yosoro~
+  name_l10n:
+    zh: Yosoro~
+    ja: ヨーソロー！
+  file: 
+    - 9onIjeIWo24_3_Yosoro_1.mp3
+    - 9onIjeIWo24_4_Yosoro_2.mp3
+  category: 
+    - 08-say-hello
+    - new
+  metadata:
+    site: youtube
+    identifier: 9onIjeIWo24
+- name: The screams of losing
+  name_l10n:
+    zh: 输者的叫声
+    ja: 負けた時の悲鳴
+  file: cB_JncPKOvY_1_The_screams_of_losing.mp3
+  category: 
+    - 03-psycho
+    - new
+  metadata:
+    site: youtube
+    identifier: cB_JncPKOvY
+- name: Stuttering Suisei
+  name_l10n:
+    zh: 口吃的彗酱
+    ja: すいちゃんの吃音
+  file: H_08cZT_PrE_1_Stuttering_suisei.mp3
+  category: 
+    - 05-sui-strumental
+    - new
+  metadata:
+    site: youtube
+    identifier: H_08cZT_PrE
+- name: Why？
+  name_l10n:
+    zh: 呐~为什么会这样~
+    ja: ねぇ～なんで？
+  file: 9onIjeIWo24_5_Why.mp3
+  category: 
+    - 02-cute
+    - new
+  metadata:
+    site: youtube
+    identifier: 9onIjeIWo24
