@@ -1849,9 +1849,12 @@
     - lWviugwupLE_2_Good_Morning~.mp3
     - lWviugwupLE_3_Good_Morning~.mp3
     - lWviugwupLE_4_Good_Morning~.mp3
+    - lZYOi732loM_1_Good_Morning.mp3
   metadata:
     site: youtube
-    identifier: lWviugwupLE
+    identifier: 
+      - lWviugwupLE
+      - lZYOi732loM
 - name: Very Nice~
   name_l10n:
     zh: Very Nice~
@@ -2090,3 +2093,12 @@
   metadata:
     site: youtube
     identifier: 9onIjeIWo24
+- name: Good Morning~(ja_JP)
+  name_l10n:
+    zh: 早上好～
+    ja: おはよう～
+  category: new
+  file: lZYOi732loM_1_Good_Morning.mp3
+  metadata:
+    site: youtube
+    identifier: lZYOi732loM
