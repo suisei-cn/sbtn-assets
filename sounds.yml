@@ -780,15 +780,20 @@
   name_l10n:
     zh: 呐！！！（恼怒）
     ja: な！！！（怒り）
-  category: 06-angry
+  category: 
+    - 06-angry
+    - new
   file:
     - 0WsDVU_W6QU--2308.182--2310.823.mp3
     - 0WsDVU_W6QU--2978.508--2980.508.mp3
     - 0WsDVU_W6QU--4134.913--4142.164.mp3
     - 0WsDVU_W6QU--9735.791--9738.mp3
+    - STXAmPs0ljY_1_Ne!.mp3
   metadata:
     site: youtube
-    identifier: 0WsDVU_W6QU
+    identifier:
+    - 0WsDVU_W6QU
+    - STXAmPs0ljY
     time:
       - from: 2308.182
         to: 2310.823
@@ -2032,7 +2037,6 @@
   file: 9onIjeIWo24_2_Nya-hallo.mp3
   category: 
     - 02-cute
-    - new
   metadata:
     site: youtube
     identifier: 9onIjeIWo24
@@ -2043,7 +2047,6 @@
   file: 9onIjeIWo24_1_Hey_hey_hey.mp3
   category: 
     - 06-angry
-    - new
   metadata:
     site: youtube
     identifier: 9onIjeIWo24
@@ -2056,7 +2059,6 @@
     - 9onIjeIWo24_4_Yosoro_2.mp3
   category: 
     - 08-say-hello
-    - new
   metadata:
     site: youtube
     identifier: 9onIjeIWo24
@@ -2067,7 +2069,6 @@
   file: cB_JncPKOvY_1_The_screams_of_losing.mp3
   category: 
     - 03-psycho
-    - new
   metadata:
     site: youtube
     identifier: cB_JncPKOvY
@@ -2078,7 +2079,6 @@
   file: H_08cZT_PrE_1_Stuttering_suisei.mp3
   category: 
     - 05-sui-strumental
-    - new
   metadata:
     site: youtube
     identifier: H_08cZT_PrE
@@ -2089,16 +2089,29 @@
   file: 9onIjeIWo24_5_Why.mp3
   category: 
     - 02-cute
-    - new
   metadata:
     site: youtube
     identifier: 9onIjeIWo24
-- name: Good Morning~(ja_JP)
+- name: Bye~Bye~
   name_l10n:
-    zh: 早上好～
-    ja: おはよう～
-  category: new
-  file: lZYOi732loM_1_Good_Morning.mp3
+    zh: 拜拜~
+    ja: バイバーイ～
+  file: QbjT0iELbtc_1_Bye_Bye.mp3
+  category: 
+    - 08-say-hello
+    - new
   metadata:
     site: youtube
-    identifier: lZYOi732loM
+    identifier: QbjT0iELbtc
+- name: "5 * 8 = 42"
+  name_l10n:
+    zh: "5 * 8 = 42"
+    ja: "5 * 8 = 42"
+  file: STXAmPs0ljY_2_5842.mp3
+  category: 
+    - 09-sayings
+    - new
+  metadata:
+    site: youtube
+    identifier: STXAmPs0ljY
+
