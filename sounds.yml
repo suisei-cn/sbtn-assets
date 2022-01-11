@@ -1734,17 +1734,6 @@
     time:
       from: 567.08
       to: 574.946
-- name: "Baby, baby, baby!"
-  name_l10n:
-    zh: 宝贝，宝贝，宝贝！
-    ja: 赤ちゃん，赤ちゃん，赤ちゃん！
-  file: pLUf75CZg38--567.08--574.946.mp3
-  metadata:
-    site: youtube
-    identifier: pLUf75CZg38
-    time:
-      from: 567.08
-      to: 574.946
 - name: I'm not invited!!
   _comment: |
     zh: https://t.bilibili.com/395499860137488715?tab=2
