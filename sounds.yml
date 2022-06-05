@@ -782,7 +782,6 @@
     ja: な！！！（怒り）
   category: 
     - 06-angry
-    - new
   file:
     - 0WsDVU_W6QU--2308.182--2310.823.mp3
     - 0WsDVU_W6QU--2978.508--2980.508.mp3
@@ -2088,7 +2087,6 @@
   file: QbjT0iELbtc_1_Bye_Bye.mp3
   category: 
     - 08-say-hello
-    - new
   metadata:
     site: youtube
     identifier: QbjT0iELbtc
@@ -2098,8 +2096,18 @@
     ja: "5 * 8 = 42"
   file: STXAmPs0ljY_2_5842.mp3
   category: 
-    - new
   metadata:
     site: youtube
     identifier: STXAmPs0ljY
+- name: That's really foolish
+  name_l10n:
+    zh: 这可真是太蠢了！
+    ja: もう、ばか、本当に
+  file: dC6MzWrLee0_1_That_is_really_foolish.mp3
+  category:
+    - 06-angry
+    - new
+  metadata:
+    site: youtube
+    identifier: dC6MzWrLee0
 
