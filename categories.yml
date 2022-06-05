@@ -1,8 +1,8 @@
 new:
-  name: 2022-1 Button addition
+  name: 2022-3 Button addition
   name_l10n:
-    ja: 2022-1 ボタン追加
-    zh: 2022-1 按钮追加
+    ja: 2022-3 ボタン追加
+    zh: 2022-3 按钮追加
   order: 1
 01-kawaii:
   name: Today Sui-chan is still kawaii!
