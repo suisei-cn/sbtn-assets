@@ -2106,8 +2106,19 @@
   file: dC6MzWrLee0_1_That_is_really_foolish.mp3
   category:
     - 06-angry
-    - new
   metadata:
     site: youtube
     identifier: dC6MzWrLee0
-
+- name: ShinySmilyStory
+  name_l10n:
+    zh: ShinySmilyStory
+    ja: ShinySmilyStory
+  file: 
+    - wosSRw0QcHs_1_ShinySmilyStory.mp3
+    - wosSRw0QcHs_2_ShinySmilyStory.mp3
+  category:
+    - 12-sui-lody
+    - new
+  metadata:
+    site: youtube
+    identifier: wosSRw0QcHs
