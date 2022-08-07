@@ -780,7 +780,7 @@
   name_l10n:
     zh: 呐！！！（恼怒）
     ja: な！！！（怒り）
-  category: 
+  category:
     - 06-angry
   file:
     - 0WsDVU_W6QU--2308.182--2310.823.mp3
@@ -791,8 +791,8 @@
   metadata:
     site: youtube
     identifier:
-    - 0WsDVU_W6QU
-    - STXAmPs0ljY
+      - 0WsDVU_W6QU
+      - STXAmPs0ljY
     time:
       - from: 2308.182
         to: 2310.823
@@ -881,13 +881,13 @@
   name_l10n:
     zh: 笨蛋！
     ja: バカ
-  file: 
+  file:
     - lnrFF5TnvYI-baka.mp3
     - QCKHyFxVay0_1_baka.mp3
   category: 06-angry
   metadata:
     site: youtube
-    identifier: 
+    identifier:
       - lnrFF5TnvYI
       - QCKHyFxVay0
 - name: (scold)
@@ -1845,7 +1845,7 @@
     - lZYOi732loM_1_Good_Morning.mp3
   metadata:
     site: youtube
-    identifier: 
+    identifier:
       - lWviugwupLE
       - lZYOi732loM
 - name: Very Nice~
@@ -2013,7 +2013,7 @@
     zh: 奸笑
     ja: 不敵な笑み
   file: FiHN9tLEZbE_1_sinister-smile.mp3
-  category: 
+  category:
     - 04-hihihi
   metadata:
     site: youtube
@@ -2023,7 +2023,7 @@
     zh: 喵哈喽~
     ja: にゃっはろー
   file: 9onIjeIWo24_2_Nya-hallo.mp3
-  category: 
+  category:
     - 02-cute
   metadata:
     site: youtube
@@ -2033,7 +2033,7 @@
     zh: 喂喂~
     ja: おいおい！
   file: 9onIjeIWo24_1_Hey_hey_hey.mp3
-  category: 
+  category:
     - 06-angry
   metadata:
     site: youtube
@@ -2042,10 +2042,10 @@
   name_l10n:
     zh: Yosoro~
     ja: ヨーソロー！
-  file: 
+  file:
     - 9onIjeIWo24_3_Yosoro_1.mp3
     - 9onIjeIWo24_4_Yosoro_2.mp3
-  category: 
+  category:
     - 08-say-hello
   metadata:
     site: youtube
@@ -2055,7 +2055,7 @@
     zh: 输者的叫声
     ja: 負けた時の悲鳴
   file: cB_JncPKOvY_1_The_screams_of_losing.mp3
-  category: 
+  category:
     - 03-psycho
   metadata:
     site: youtube
@@ -2065,7 +2065,7 @@
     zh: 口吃的彗酱
     ja: すいちゃんの吃音
   file: H_08cZT_PrE_1_Stuttering_suisei.mp3
-  category: 
+  category:
     - 05-sui-strumental
   metadata:
     site: youtube
@@ -2075,7 +2075,7 @@
     zh: 呐~为什么会这样~
     ja: ねぇ～なんで？
   file: 9onIjeIWo24_5_Why.mp3
-  category: 
+  category:
     - 02-cute
   metadata:
     site: youtube
@@ -2085,7 +2085,7 @@
     zh: 拜拜~
     ja: バイバーイ～
   file: QbjT0iELbtc_1_Bye_Bye.mp3
-  category: 
+  category:
     - 08-say-hello
   metadata:
     site: youtube
@@ -2095,7 +2095,7 @@
     zh: "5 * 8 = 42"
     ja: "5 * 8 = 42"
   file: STXAmPs0ljY_2_5842.mp3
-  category: 
+  category:
   metadata:
     site: youtube
     identifier: STXAmPs0ljY
@@ -2113,12 +2113,26 @@
   name_l10n:
     zh: ShinySmilyStory
     ja: ShinySmilyStory
-  file: 
+  file:
     - wosSRw0QcHs_1_ShinySmilyStory.mp3
     - wosSRw0QcHs_2_ShinySmilyStory.mp3
+  category:
+    - 12-sui-lody
+  metadata:
+    site: youtube
+    identifier: wosSRw0QcHs
+- name: '"th" is for dea-th'
+  name_l10n:
+    zh: '"si" 是"去死吧"的 "si"'
+    ja: '"し"わ"死ねよ"の"し"'
+  file:
+    - -et3VxkrrRA--8135--8145.mp3
   category:
     - 12-sui-lody
     - new
   metadata:
     site: youtube
-    identifier: wosSRw0QcHs
+    identifier: -et3VxkrrRA
+    time:
+      from: 8135
+      to: 8145
